@@ -1,0 +1,1501 @@
+applicant_id,age,gender,education,employment_status,annual_income,loan_amount,loan_term_months,interest_rate,credit_score,credit_history_years,existing_loans,debt_to_income,missed_payments,loan_purpose,loan_status
+APP0001,25,Male,Graduate,Salaried,970000,1693000,48,14.69,654,0.6,4,0.42,1,Personal,1
+APP0002,55,Male,Post Graduate,Salaried,855000,496000,36,9.67,837,9.5,5,0.31,0,Personal,0
+APP0003,50,Male,Graduate,Salaried,617000,809000,12,11.46,789,4.0,1,0.34,2,Home,0
+APP0004,40,Male,Graduate,Business Owner,793000,409000,36,12.41,769,6.8,0,0.33,0,Business,0
+APP0005,40,Female,Doctorate,Salaried,964000,978000,60,12.6,696,2.6,1,0.3,3,Home,1
+APP0006,59,Male,Graduate,Salaried,603000,921000,36,12.69,618,18.1,1,0.38,2,Education,0
+APP0007,24,Male,Post Graduate,Salaried,483000,573000,24,9.65,788,2.1,0,0.34,2,Vehicle,0
+APP0008,52,Female,Post Graduate,Salaried,646000,620000,36,12.25,723,17.2,0,0.17,0,Education,0
+APP0009,30,Male,High School,Unemployed,100000,197000,60,14.28,636,2.3,1,0.47,0,Personal,1
+APP0010,25,Male,Graduate,Salaried,693000,1210000,24,12.96,665,3.1,1,0.31,1,Personal,0
+APP0011,44,Female,Graduate,Unemployed,176000,220000,60,14.26,615,12.3,1,0.53,0,Education,1
+APP0012,64,Male,Doctorate,Salaried,783000,1644000,48,13.01,771,5.9,2,0.41,1,Home,0
+APP0013,54,Male,Graduate,Salaried,707000,741000,36,11.84,755,12.4,1,0.57,0,Home,0
+APP0014,55,Male,High School,Salaried,422000,750000,120,10.68,729,19.6,0,0.44,1,Home,0
+APP0015,53,Female,Graduate,Salaried,220000,118000,84,12.55,666,9.5,4,0.45,0,Business,0
+APP0016,56,Male,High School,Business Owner,696000,537000,36,14.03,638,11.8,1,0.24,0,Personal,0
+APP0017,44,Male,Post Graduate,Salaried,1138000,997000,12,14.46,523,11.5,0,0.22,5,Home,1
+APP0018,26,Male,Graduate,Salaried,333000,137000,36,15.14,571,0.8,0,0.36,2,Home,1
+APP0019,58,Male,Post Graduate,Self-Employed,947000,1140000,24,12.7,650,25.8,1,0.35,0,Business,0
+APP0020,41,Female,Post Graduate,Self-Employed,1585000,926000,48,13.48,619,4.3,0,0.23,0,Business,0
+APP0021,43,Male,Graduate,Unemployed,115000,169000,84,11.57,710,2.7,1,0.43,1,Medical,1
+APP0022,37,Female,Graduate,Unemployed,150000,87000,84,11.33,753,1.8,1,0.33,0,Home,0
+APP0023,29,Female,Post Graduate,Self-Employed,577000,258000,36,12.66,667,3.1,2,0.46,1,Vehicle,1
+APP0024,62,Female,Post Graduate,Business Owner,2527000,5000000,36,8.58,842,26.5,0,0.18,0,Home,0
+APP0025,56,Male,Post Graduate,Business Owner,1389000,2106000,12,12.65,633,21.3,2,0.48,2,Personal,0
+APP0026,49,Female,High School,Salaried,457000,947000,48,11.12,693,18.8,1,0.39,0,Vehicle,0
+APP0027,39,Female,Graduate,Self-Employed,1124000,1326000,12,11.75,695,8.0,0,0.44,0,Personal,1
+APP0028,58,Male,High School,Salaried,567000,151000,84,9.98,792,14.0,1,0.45,0,Home,0
+APP0029,45,Female,Post Graduate,Business Owner,1053000,1420000,84,12.91,693,8.3,2,0.35,2,Personal,0
+APP0030,40,Female,Graduate,Unemployed,120000,158000,24,12.76,704,2.6,0,0.28,1,Education,0
+APP0031,41,Male,Graduate,Salaried,713000,164000,60,14.82,542,13.6,3,0.6,3,Business,1
+APP0032,31,Female,High School,Business Owner,663000,1275000,48,12.44,603,4.4,2,0.33,1,Home,0
+APP0033,25,Male,Graduate,Unemployed,71000,102000,60,11.01,761,1.9,3,0.48,0,Personal,0
+APP0034,45,Female,Post Graduate,Salaried,766000,1294000,36,13.65,518,10.2,1,0.28,0,Home,1
+APP0035,60,Female,High School,Salaried,268000,318000,24,10.02,824,23.1,1,0.11,0,Personal,0
+APP0036,23,Male,High School,Unemployed,198000,284000,48,12.02,733,0.7,0,0.15,0,Personal,1
+APP0037,59,Female,Post Graduate,Unemployed,207000,148000,24,13.65,643,20.5,1,0.38,0,Vehicle,0
+APP0038,58,Male,Post Graduate,Salaried,568000,1220000,48,13.35,635,20.0,1,0.41,0,Education,1
+APP0039,33,Female,High School,Salaried,352000,353000,24,10.71,853,7.9,1,0.38,0,Education,0
+APP0040,49,Female,Graduate,Self-Employed,361000,189000,60,10.62,806,3.1,1,0.47,2,Education,0
+APP0041,28,Male,Doctorate,Salaried,653000,204000,60,12.2,674,1.6,1,0.38,1,Personal,0
+APP0042,55,Male,Post Graduate,Salaried,1113000,1639000,24,12.43,718,13.4,0,0.21,0,Home,0
+APP0043,52,Male,Graduate,Salaried,1310000,2838000,36,13.48,650,19.5,1,0.4,0,Home,0
+APP0044,36,Male,Graduate,Salaried,774000,1541000,60,11.48,707,10.9,1,0.35,0,Education,0
+APP0045,24,Male,Graduate,Self-Employed,678000,1088000,24,13.52,619,1.8,2,0.29,0,Education,1
+APP0046,64,Male,High School,Self-Employed,451000,984000,48,12.32,663,10.0,4,0.48,1,Home,0
+APP0047,41,Male,Post Graduate,Self-Employed,651000,1071000,48,8.52,825,4.4,3,0.4,1,Personal,1
+APP0048,61,Male,High School,Business Owner,1696000,1490000,36,12.26,706,19.8,0,0.23,0,Home,0
+APP0049,51,Female,High School,Salaried,421000,590000,60,12.45,601,7.0,1,0.31,0,Medical,1
+APP0050,56,Female,Post Graduate,Salaried,1636000,588000,48,14.0,584,15.5,1,0.5,1,Personal,1
+APP0051,55,Female,Post Graduate,Salaried,1270000,817000,48,10.5,718,21.0,1,0.5,1,Vehicle,0
+APP0052,29,Male,Post Graduate,Salaried,424000,439000,24,12.49,629,3.0,0,0.32,2,Business,0
+APP0053,37,Female,Graduate,Salaried,475000,287000,12,11.38,718,5.6,0,0.31,1,Personal,0
+APP0054,42,Female,Graduate,Salaried,475000,1001000,12,15.6,524,2.7,4,0.25,2,Personal,1
+APP0055,43,Male,Graduate,Salaried,583000,1277000,84,11.21,724,5.8,4,0.63,0,Education,0
+APP0056,22,Male,Graduate,Salaried,587000,553000,84,12.75,593,1.0,1,0.45,4,Personal,0
+APP0057,45,Female,Graduate,Self-Employed,1998000,3234000,60,12.25,703,7.9,0,0.39,0,Home,0
+APP0058,27,Male,Graduate,Self-Employed,480000,487000,24,12.62,647,1.4,2,0.09,0,Vehicle,1
+APP0059,54,Male,Graduate,Unemployed,163000,78000,48,10.49,843,5.6,0,0.3,0,Home,0
+APP0060,51,Other,Post Graduate,Business Owner,1774000,1550000,60,11.16,702,4.9,1,0.31,0,Vehicle,0
+APP0061,62,Male,Doctorate,Self-Employed,1119000,746000,48,9.47,880,20.8,0,0.38,1,Personal,0
+APP0062,54,Male,High School,Salaried,468000,401000,24,13.48,733,15.9,3,0.34,0,Home,0
+APP0063,37,Other,Graduate,Self-Employed,486000,306000,84,10.13,812,7.0,1,0.3,1,Education,0
+APP0064,64,Female,High School,Salaried,467000,198000,24,12.49,677,17.6,2,0.43,1,Business,0
+APP0065,39,Male,Graduate,Salaried,718000,456000,24,10.43,716,3.6,1,0.24,1,Education,0
+APP0066,35,Female,Graduate,Salaried,673000,1354000,84,9.8,801,6.0,0,0.23,1,Home,0
+APP0067,61,Female,High School,Salaried,549000,203000,48,11.38,766,5.6,1,0.35,0,Education,0
+APP0068,37,Female,Post Graduate,Salaried,1279000,1087000,36,11.14,740,11.1,1,0.49,2,Medical,0
+APP0069,24,Female,Graduate,Self-Employed,972000,1222000,48,13.53,631,0.5,4,0.52,0,Personal,0
+APP0070,42,Male,Post Graduate,Business Owner,1466000,1333000,120,12.55,686,7.8,0,0.43,1,Personal,0
+APP0071,56,Male,High School,Business Owner,547000,676000,24,9.7,783,3.6,1,0.34,0,Business,0
+APP0072,29,Female,High School,Self-Employed,426000,122000,60,11.15,811,5.1,0,0.48,0,Personal,0
+APP0073,41,Male,Graduate,Salaried,556000,832000,36,11.83,645,4.2,0,0.09,0,Business,0
+APP0074,26,Female,High School,Salaried,492000,653000,24,12.54,623,3.9,1,0.57,0,Personal,0
+APP0075,51,Female,Graduate,Self-Employed,592000,925000,36,13.53,610,3.9,1,0.59,1,Business,0
+APP0076,42,Male,Doctorate,Salaried,692000,923000,48,12.23,768,13.0,1,0.38,2,Personal,0
+APP0077,35,Female,High School,Salaried,297000,320000,24,12.76,596,7.4,3,0.49,4,Education,1
+APP0078,31,Male,High School,Salaried,252000,227000,36,11.41,747,2.7,2,0.36,0,Home,0
+APP0079,46,Female,Graduate,Unemployed,138000,90000,48,11.6,735,5.8,1,0.3,1,Home,0
+APP0080,51,Male,Graduate,Self-Employed,419000,503000,48,13.2,655,9.8,0,0.23,1,Vehicle,0
+APP0081,63,Female,Graduate,Salaried,423000,107000,60,10.64,854,25.7,0,0.29,1,Medical,0
+APP0082,40,Female,Graduate,Self-Employed,610000,522000,60,13.48,580,12.3,0,0.37,1,Personal,0
+APP0083,28,Male,Post Graduate,Salaried,489000,761000,36,10.81,833,1.6,0,0.35,0,Personal,0
+APP0084,58,Female,High School,Salaried,514000,215000,36,13.08,699,11.9,4,0.66,2,Personal,1
+APP0085,49,Female,Graduate,Salaried,777000,253000,48,16.1,522,7.0,0,0.31,1,Business,0
+APP0086,52,Female,Graduate,Salaried,495000,745000,48,10.54,824,5.6,1,0.15,2,Personal,0
+APP0087,25,Female,Post Graduate,Self-Employed,781000,778000,24,11.35,752,2.4,3,0.59,1,Education,0
+APP0088,35,Female,Graduate,Salaried,724000,1306000,36,12.36,651,4.6,1,0.18,0,Vehicle,0
+APP0089,55,Male,Graduate,Business Owner,857000,1778000,24,12.06,618,8.2,0,0.23,1,Vehicle,0
+APP0090,58,Male,High School,Salaried,342000,723000,36,13.5,585,23.5,0,0.33,0,Home,1
+APP0091,40,Male,High School,Self-Employed,798000,839000,120,9.09,900,11.0,0,0.35,0,Education,0
+APP0092,57,Female,High School,Self-Employed,715000,521000,48,12.98,629,20.9,1,0.16,1,Education,0
+APP0093,58,Female,Post Graduate,Self-Employed,1123000,1592000,36,14.16,588,4.7,0,0.21,3,Home,1
+APP0094,38,Male,Graduate,Self-Employed,968000,1410000,48,10.67,711,11.7,2,0.18,1,Education,1
+APP0095,61,Male,Post Graduate,Unemployed,98000,142000,48,13.88,565,18.2,1,0.4,6,Business,1
+APP0096,33,Female,High School,Salaried,723000,610000,36,15.14,597,5.2,2,0.5,4,Education,1
+APP0097,31,Male,Post Graduate,Self-Employed,1044000,342000,36,11.78,768,1.2,1,0.18,3,Business,0
+APP0098,51,Female,Post Graduate,Self-Employed,1296000,804000,60,11.7,753,19.8,0,0.42,0,Home,0
+APP0099,49,Male,High School,Salaried,515000,262000,12,12.85,664,12.4,1,0.44,0,Medical,0
+APP0100,27,Female,High School,Salaried,458000,205000,48,11.75,697,4.2,0,0.22,0,Personal,0
+APP0101,58,Male,High School,Salaried,409000,839000,48,11.21,659,18.7,2,0.12,1,Business,1
+APP0102,29,Male,Post Graduate,Salaried,887000,202000,60,12.5,691,5.2,0,0.17,0,Vehicle,0
+APP0103,57,Female,High School,Salaried,403000,566000,120,11.06,632,19.1,2,0.29,0,Personal,0
+APP0104,21,Female,Graduate,Salaried,813000,1703000,60,12.61,642,0.7,0,0.49,3,Vehicle,1
+APP0105,56,Male,Graduate,Self-Employed,402000,370000,48,12.9,640,8.5,1,0.32,1,Vehicle,0
+APP0106,56,Male,Post Graduate,Salaried,645000,809000,24,12.57,638,8.0,0,0.18,0,Personal,0
+APP0107,56,Female,Graduate,Business Owner,2250000,3581000,48,12.33,794,19.0,1,0.35,1,Home,0
+APP0108,50,Female,Graduate,Salaried,482000,402000,60,12.65,754,12.0,2,0.2,1,Home,0
+APP0109,42,Male,Doctorate,Self-Employed,1030000,1190000,84,14.34,599,10.1,3,0.45,2,Business,1
+APP0110,52,Male,High School,Salaried,330000,605000,60,12.62,609,16.8,0,0.18,0,Home,0
+APP0111,33,Female,Post Graduate,Salaried,877000,1483000,24,13.79,683,5.6,0,0.2,0,Personal,1
+APP0112,56,Female,High School,Salaried,348000,632000,60,9.65,890,20.6,1,0.38,0,Home,0
+APP0113,46,Female,Graduate,Self-Employed,656000,1427000,84,12.57,612,7.6,0,0.51,1,Vehicle,1
+APP0114,41,Female,Post Graduate,Salaried,1050000,988000,60,12.27,684,12.9,1,0.59,1,Education,0
+APP0115,43,Male,Graduate,Unemployed,117000,198000,60,13.1,678,3.8,3,0.27,0,Vehicle,0
+APP0116,46,Female,Graduate,Salaried,791000,1112000,48,11.82,680,12.5,2,0.29,0,Business,0
+APP0117,22,Female,Graduate,Self-Employed,933000,1430000,48,13.06,637,1.3,2,0.42,2,Business,1
+APP0118,27,Female,Graduate,Salaried,868000,1458000,36,11.02,782,1.8,1,0.47,1,Education,0
+APP0119,32,Male,Graduate,Self-Employed,735000,1249000,24,10.62,733,3.6,0,0.04,0,Education,0
+APP0120,26,Male,Graduate,Salaried,1866000,3679000,60,11.06,748,1.7,2,0.37,0,Business,0
+APP0121,40,Female,Graduate,Salaried,868000,780000,84,10.65,735,8.8,2,0.3,0,Home,1
+APP0122,51,Male,Graduate,Salaried,672000,1013000,84,11.99,747,10.8,4,0.19,0,Home,0
+APP0123,50,Female,Graduate,Salaried,442000,336000,36,9.43,823,4.9,1,0.17,0,Vehicle,0
+APP0124,42,Male,Graduate,Salaried,580000,806000,24,10.43,820,14.0,0,0.23,0,Personal,0
+APP0125,59,Female,Graduate,Unemployed,247000,420000,36,8.04,890,8.7,1,0.34,1,Education,0
+APP0126,46,Female,High School,Salaried,819000,1459000,60,9.73,791,10.9,2,0.48,2,Home,0
+APP0127,24,Male,Post Graduate,Salaried,1309000,1362000,48,12.27,619,1.8,2,0.4,0,Medical,0
+APP0128,55,Male,Graduate,Unemployed,197000,240000,120,11.0,751,4.4,2,0.47,0,Medical,1
+APP0129,46,Female,High School,Salaried,290000,252000,36,11.44,747,4.1,1,0.33,1,Personal,0
+APP0130,49,Female,Graduate,Salaried,712000,383000,48,9.88,861,19.8,2,0.28,0,Personal,0
+APP0131,46,Male,Post Graduate,Self-Employed,589000,425000,60,11.86,615,13.0,1,0.31,1,Medical,0
+APP0132,45,Female,High School,Unemployed,67000,136000,36,11.61,717,3.0,3,0.47,0,Personal,1
+APP0133,25,Female,High School,Self-Employed,571000,467000,120,12.36,636,2.9,0,0.42,2,Personal,1
+APP0134,46,Male,High School,Salaried,540000,1161000,48,11.74,746,10.5,0,0.28,0,Vehicle,0
+APP0135,56,Male,High School,Unemployed,154000,105000,12,12.12,678,5.2,0,0.19,0,Education,1
+APP0136,34,Male,Post Graduate,Salaried,928000,1528000,12,11.47,731,7.1,1,0.37,0,Business,0
+APP0137,48,Male,Doctorate,Unemployed,289000,390000,84,13.38,568,11.2,2,0.42,2,Personal,1
+APP0138,22,Male,High School,Business Owner,584000,931000,48,12.63,750,0.4,1,0.48,3,Education,0
+APP0139,36,Male,Post Graduate,Unemployed,188000,280000,60,10.91,704,10.0,2,0.28,0,Personal,0
+APP0140,40,Female,High School,Salaried,266000,429000,60,11.65,702,5.5,1,0.25,0,Business,0
+APP0141,65,Male,Graduate,Salaried,298000,599000,36,9.54,870,12.2,0,0.39,0,Education,0
+APP0142,30,Female,Post Graduate,Self-Employed,1179000,1564000,60,12.5,653,2.6,1,0.28,0,Personal,0
+APP0143,33,Male,Graduate,Salaried,461000,155000,84,10.97,728,7.3,0,0.25,1,Home,1
+APP0144,39,Male,High School,Salaried,611000,453000,24,10.52,702,9.9,1,0.48,0,Personal,0
+APP0145,65,Female,Graduate,Unemployed,221000,357000,60,10.82,742,28.9,0,0.14,0,Medical,0
+APP0146,59,Female,Doctorate,Self-Employed,902000,1072000,36,8.38,890,9.3,0,0.55,2,Business,0
+APP0147,22,Male,Graduate,Salaried,738000,957000,36,13.39,697,1.1,0,0.23,0,Business,0
+APP0148,31,Male,High School,Salaried,357000,497000,36,14.71,640,4.9,1,0.43,1,Personal,1
+APP0149,57,Male,High School,Salaried,236000,228000,84,9.77,846,10.6,2,0.35,1,Vehicle,0
+APP0150,23,Female,Graduate,Salaried,626000,1094000,12,11.54,656,0.4,1,0.36,1,Personal,1
+APP0151,59,Male,Graduate,Salaried,509000,838000,36,14.5,573,23.1,1,0.3,2,Education,1
+APP0152,33,Male,Post Graduate,Business Owner,1226000,1997000,60,12.37,623,3.2,1,0.43,0,Personal,1
+APP0153,62,Male,Post Graduate,Self-Employed,1817000,2963000,24,13.3,584,20.1,3,0.35,1,Vehicle,1
+APP0154,34,Male,Post Graduate,Salaried,457000,905000,60,13.84,544,6.0,0,0.23,2,Vehicle,1
+APP0155,40,Female,Post Graduate,Salaried,892000,1241000,84,12.41,646,2.1,2,0.58,2,Vehicle,1
+APP0156,50,Female,High School,Self-Employed,371000,792000,24,11.82,693,20.9,2,0.36,3,Vehicle,1
+APP0157,26,Male,Graduate,Business Owner,1512000,663000,24,9.52,795,3.5,0,0.22,2,Education,0
+APP0158,46,Male,Graduate,Business Owner,1221000,1787000,120,10.72,748,10.2,1,0.15,0,Education,0
+APP0159,43,Male,Graduate,Salaried,685000,1119000,24,12.61,714,11.7,5,0.67,0,Vehicle,1
+APP0160,56,Male,Post Graduate,Business Owner,1027000,1186000,12,13.13,623,13.9,1,0.26,0,Home,0
+APP0161,65,Female,Graduate,Salaried,459000,356000,120,10.8,787,24.6,1,0.58,0,Business,0
+APP0162,50,Female,Doctorate,Salaried,1328000,1726000,84,8.61,807,5.4,1,0.38,0,Home,0
+APP0163,39,Female,Graduate,Business Owner,2044000,1900000,48,12.52,716,7.0,2,0.38,2,Business,0
+APP0164,39,Female,Graduate,Salaried,710000,1433000,48,11.2,717,5.7,2,0.38,0,Education,1
+APP0165,39,Female,Graduate,Salaried,438000,400000,84,14.53,591,7.1,0,0.57,1,Business,0
+APP0166,57,Female,High School,Salaried,507000,280000,48,10.8,788,13.7,1,0.07,1,Personal,0
+APP0167,35,Male,High School,Salaried,1052000,1423000,48,9.5,837,2.8,1,0.36,1,Medical,1
+APP0168,28,Male,Graduate,Salaried,622000,617000,60,10.66,700,5.5,3,0.36,0,Business,0
+APP0169,36,Male,High School,Self-Employed,876000,343000,48,14.85,626,1.7,2,0.33,1,Personal,1
+APP0170,22,Female,Post Graduate,Salaried,602000,800000,48,13.36,652,0.2,3,0.41,0,Home,1
+APP0171,25,Male,High School,Salaried,443000,565000,36,13.59,640,1.6,2,0.33,0,Vehicle,0
+APP0172,25,Female,High School,Business Owner,1025000,560000,48,14.15,654,2.4,1,0.35,1,Education,1
+APP0173,55,Female,Post Graduate,Salaried,896000,1250000,48,11.37,754,7.3,0,0.3,1,Business,0
+APP0174,53,Female,High School,Unemployed,86000,115000,36,12.87,714,13.9,2,0.2,1,Business,1
+APP0175,52,Male,Post Graduate,Salaried,588000,1027000,36,10.3,788,17.1,1,0.38,1,Education,0
+APP0176,41,Male,Post Graduate,Self-Employed,1286000,1187000,60,12.7,693,3.3,4,0.51,0,Personal,0
+APP0177,53,Male,High School,Salaried,683000,476000,36,12.34,644,22.8,0,0.23,1,Education,0
+APP0178,28,Female,Graduate,Business Owner,1867000,3925000,12,12.35,650,2.4,0,0.52,0,Personal,0
+APP0179,61,Female,Graduate,Salaried,1128000,1492000,36,12.83,650,19.9,2,0.52,1,Personal,0
+APP0180,43,Female,Post Graduate,Unemployed,204000,52000,36,11.42,671,3.8,1,0.43,0,Vehicle,1
+APP0181,63,Male,Post Graduate,Salaried,700000,1289000,60,9.71,870,22.6,0,0.4,0,Business,0
+APP0182,27,Male,Post Graduate,Self-Employed,1460000,867000,36,9.46,853,4.2,1,0.33,0,Education,0
+APP0183,43,Male,Graduate,Salaried,770000,1364000,36,9.78,742,3.8,3,0.53,0,Personal,0
+APP0184,52,Female,Graduate,Salaried,425000,684000,60,11.77,691,5.6,2,0.55,0,Personal,0
+APP0185,43,Female,Graduate,Salaried,418000,894000,12,13.61,574,6.2,1,0.43,0,Education,0
+APP0186,41,Male,Post Graduate,Salaried,927000,1976000,24,12.64,703,2.3,1,0.26,0,Vehicle,0
+APP0187,28,Female,Graduate,Salaried,564000,422000,60,13.29,629,5.5,0,0.3,1,Home,1
+APP0188,38,Male,Graduate,Self-Employed,694000,1203000,48,11.31,823,8.3,2,0.43,2,Personal,0
+APP0189,31,Female,Graduate,Salaried,873000,728000,60,14.52,560,5.1,0,0.4,2,Business,1
+APP0190,34,Male,Post Graduate,Salaried,1017000,1483000,60,11.05,734,9.5,0,0.29,0,Home,0
+APP0191,51,Male,Doctorate,Salaried,1529000,2134000,84,13.12,622,18.6,2,0.29,1,Home,0
+APP0192,49,Female,High School,Salaried,229000,71000,12,11.69,702,17.1,1,0.52,0,Vehicle,0
+APP0193,48,Male,High School,Salaried,492000,103000,60,11.78,741,8.5,2,0.23,1,Education,0
+APP0194,37,Male,Graduate,Self-Employed,893000,282000,60,11.04,767,5.1,2,0.25,2,Education,0
+APP0195,64,Male,Graduate,Salaried,352000,160000,24,11.51,699,12.1,0,0.14,2,Personal,0
+APP0196,24,Male,Graduate,Business Owner,875000,626000,84,11.17,756,1.2,0,0.19,0,Vehicle,0
+APP0197,36,Female,High School,Salaried,335000,675000,36,13.51,624,5.1,2,0.51,1,Business,0
+APP0198,26,Female,Graduate,Salaried,605000,749000,84,11.01,712,1.1,0,0.45,0,Vehicle,0
+APP0199,36,Female,Graduate,Business Owner,1945000,3489000,48,11.4,757,5.0,3,0.38,1,Personal,0
+APP0200,64,Male,Graduate,Salaried,1218000,2286000,48,10.65,706,16.2,4,0.48,0,Vehicle,0
+APP0201,37,Female,Graduate,Salaried,451000,753000,24,13.86,635,4.9,2,0.36,1,Education,1
+APP0202,61,Male,Post Graduate,Unemployed,234000,230000,84,13.02,660,8.2,2,0.22,0,Vehicle,1
+APP0203,43,Male,Graduate,Unemployed,182000,351000,48,12.15,777,7.5,1,0.6,1,Personal,1
+APP0204,52,Male,Post Graduate,Self-Employed,1042000,1755000,12,12.43,612,12.4,0,0.46,1,Medical,0
+APP0205,41,Female,Graduate,Salaried,690000,1164000,12,14.18,615,11.2,1,0.37,0,Home,0
+APP0206,32,Female,Graduate,Self-Employed,779000,1560000,60,12.13,741,6.3,1,0.23,0,Vehicle,0
+APP0207,55,Female,Graduate,Unemployed,271000,379000,24,12.66,646,7.8,2,0.33,2,Personal,1
+APP0208,64,Male,High School,Unemployed,165000,207000,48,13.84,557,5.4,2,0.28,4,Home,1
+APP0209,32,Male,Graduate,Salaried,414000,820000,60,9.62,801,3.4,1,0.34,1,Business,0
+APP0210,56,Female,Graduate,Salaried,793000,879000,36,12.47,597,7.0,1,0.37,2,Education,1
+APP0211,32,Female,Post Graduate,Salaried,1066000,1943000,48,11.73,678,4.0,0,0.26,1,Business,1
+APP0212,53,Male,Graduate,Salaried,670000,206000,36,11.52,665,22.7,0,0.13,2,Personal,0
+APP0213,56,Male,High School,Self-Employed,780000,158000,84,13.79,666,7.5,1,0.59,0,Home,0
+APP0214,41,Male,Graduate,Salaried,641000,805000,84,12.21,606,6.1,2,0.39,1,Personal,0
+APP0215,54,Female,High School,Salaried,483000,168000,36,11.02,773,18.2,0,0.35,1,Home,0
+APP0216,33,Male,Post Graduate,Salaried,814000,1753000,48,12.38,698,5.3,1,0.28,0,Personal,0
+APP0217,24,Female,Post Graduate,Salaried,385000,81000,48,11.3,766,0.5,1,0.14,1,Business,0
+APP0218,25,Male,Graduate,Salaried,583000,954000,120,13.27,639,1.0,0,0.29,0,Personal,1
+APP0219,41,Female,Graduate,Salaried,475000,326000,36,9.94,888,13.9,0,0.26,0,Education,0
+APP0220,61,Male,Graduate,Salaried,396000,846000,48,14.1,536,6.6,0,0.39,3,Vehicle,1
+APP0221,26,Male,Graduate,Unemployed,248000,239000,84,14.31,551,2.9,1,0.44,1,Vehicle,1
+APP0222,41,Male,Post Graduate,Salaried,931000,237000,24,9.58,846,12.1,1,0.42,0,Personal,0
+APP0223,52,Male,Post Graduate,Salaried,772000,196000,48,12.68,724,8.3,2,0.48,0,Personal,0
+APP0224,30,Female,Graduate,Salaried,492000,643000,24,13.42,717,5.4,1,0.55,0,Vehicle,0
+APP0225,53,Male,Graduate,Salaried,666000,1448000,48,10.64,727,6.7,1,0.38,0,Personal,0
+APP0226,34,Female,High School,Salaried,637000,1376000,36,9.85,735,3.8,1,0.46,1,Personal,0
+APP0227,57,Male,High School,Salaried,337000,295000,120,12.4,704,10.6,3,0.45,0,Personal,0
+APP0228,47,Male,High School,Salaried,449000,523000,36,14.15,614,18.8,2,0.13,0,Education,0
+APP0229,45,Female,Graduate,Salaried,813000,326000,24,12.7,758,5.7,1,0.31,0,Vehicle,0
+APP0230,28,Male,Post Graduate,Self-Employed,462000,575000,60,11.99,740,1.4,1,0.23,0,Vehicle,0
+APP0231,41,Female,Graduate,Salaried,588000,823000,60,11.44,812,13.8,2,0.39,0,Business,0
+APP0232,59,Female,High School,Salaried,387000,272000,60,11.45,825,7.7,3,0.3,0,Business,0
+APP0233,21,Female,High School,Self-Employed,501000,714000,60,12.89,719,0.6,0,0.37,0,Business,0
+APP0234,55,Male,Graduate,Salaried,503000,1006000,36,14.71,566,17.2,5,0.57,2,Education,1
+APP0235,43,Male,Post Graduate,Salaried,818000,165000,48,8.92,837,10.3,2,0.5,0,Personal,0
+APP0236,53,Female,Graduate,Salaried,1176000,774000,12,13.12,625,18.2,0,0.49,1,Business,1
+APP0237,50,Male,Post Graduate,Salaried,696000,431000,24,11.91,722,16.1,2,0.16,0,Home,0
+APP0238,40,Male,Post Graduate,Salaried,864000,387000,84,12.7,648,3.3,3,0.25,1,Home,1
+APP0239,34,Male,High School,Unemployed,226000,120000,60,12.61,657,9.8,1,0.68,1,Home,1
+APP0240,49,Female,Graduate,Unemployed,124000,180000,36,12.08,778,19.3,0,0.42,2,Personal,1
+APP0241,27,Female,Post Graduate,Unemployed,368000,149000,24,11.15,716,4.5,0,0.33,0,Vehicle,0
+APP0242,47,Female,Graduate,Salaried,601000,1008000,84,11.9,749,12.8,0,0.3,1,Home,0
+APP0243,25,Female,High School,Salaried,840000,1658000,24,13.41,623,2.1,0,0.29,0,Vehicle,0
+APP0244,50,Male,Post Graduate,Salaried,1014000,2082000,36,11.58,682,12.7,1,0.1,3,Personal,0
+APP0245,49,Female,Post Graduate,Salaried,869000,1321000,24,12.22,628,3.2,0,0.21,2,Business,0
+APP0246,24,Male,Graduate,Salaried,586000,349000,12,11.37,651,1.6,3,0.38,1,Personal,0
+APP0247,55,Female,Graduate,Salaried,482000,179000,36,12.39,700,16.6,0,0.21,0,Business,0
+APP0248,39,Male,High School,Salaried,462000,307000,120,9.94,834,9.4,3,0.32,1,Personal,0
+APP0249,56,Other,Post Graduate,Salaried,1068000,2268000,36,11.74,673,10.8,1,0.64,2,Business,1
+APP0250,22,Male,Graduate,Salaried,597000,1268000,48,13.59,494,0.8,2,0.33,2,Vehicle,1
+APP0251,29,Male,High School,Self-Employed,470000,453000,60,10.64,814,4.3,0,0.33,1,Business,0
+APP0252,43,Male,Graduate,Salaried,550000,468000,48,11.29,738,8.2,0,0.33,0,Business,0
+APP0253,29,Male,Post Graduate,Business Owner,2024000,2469000,60,11.64,686,6.1,0,0.37,0,Personal,0
+APP0254,35,Male,Post Graduate,Salaried,1198000,938000,48,12.04,646,7.8,2,0.3,0,Vehicle,0
+APP0255,50,Female,Graduate,Salaried,475000,1026000,48,13.23,605,3.0,1,0.48,0,Education,1
+APP0256,27,Male,High School,Salaried,356000,229000,48,10.28,840,0.8,2,0.41,3,Education,0
+APP0257,51,Female,Post Graduate,Salaried,891000,836000,60,12.02,681,15.9,4,0.27,0,Home,0
+APP0258,25,Male,Post Graduate,Salaried,1331000,1409000,60,13.51,536,1.7,1,0.32,3,Home,1
+APP0259,28,Female,Graduate,Salaried,896000,403000,60,11.71,716,4.8,1,0.31,0,Vehicle,0
+APP0260,47,Male,Graduate,Self-Employed,452000,436000,24,11.35,799,5.5,0,0.27,0,Home,0
+APP0261,56,Female,Graduate,Salaried,547000,1047000,48,11.91,708,3.9,0,0.36,3,Business,0
+APP0262,28,Female,Graduate,Salaried,433000,208000,60,13.54,601,2.7,2,0.44,0,Personal,1
+APP0263,34,Male,High School,Unemployed,102000,140000,36,13.13,607,7.6,1,0.39,2,Business,1
+APP0264,62,Female,High School,Salaried,789000,799000,84,12.22,638,28.7,1,0.37,0,Vehicle,0
+APP0265,65,Male,High School,Self-Employed,319000,173000,36,8.97,853,28.4,0,0.31,0,Education,0
+APP0266,47,Male,Post Graduate,Salaried,443000,100000,36,11.08,673,10.5,3,0.13,1,Education,0
+APP0267,41,Female,High School,Salaried,337000,252000,84,15.25,546,12.3,2,0.45,0,Business,0
+APP0268,36,Female,High School,Salaried,498000,161000,36,12.11,717,2.3,1,0.39,0,Home,1
+APP0269,48,Male,Graduate,Salaried,746000,711000,36,11.93,709,12.4,1,0.21,0,Personal,0
+APP0270,47,Male,High School,Self-Employed,612000,1114000,36,12.76,665,17.7,1,0.36,1,Education,1
+APP0271,34,Female,High School,Salaried,679000,1113000,84,13.88,593,4.7,2,0.44,0,Vehicle,1
+APP0272,22,Female,Graduate,Salaried,324000,679000,36,12.9,601,1.4,0,0.44,1,Home,1
+APP0273,27,Other,Graduate,Salaried,909000,958000,60,10.6,776,1.6,1,0.39,1,Vehicle,0
+APP0274,64,Female,Graduate,Unemployed,134000,216000,60,11.56,704,7.2,2,0.4,0,Home,0
+APP0275,39,Female,Post Graduate,Business Owner,1847000,2827000,48,13.53,732,7.9,1,0.44,1,Business,0
+APP0276,42,Male,High School,Unemployed,71000,50000,84,12.52,720,14.2,1,0.29,1,Home,0
+APP0277,42,Female,Post Graduate,Self-Employed,912000,736000,60,12.12,701,6.3,3,0.44,0,Education,0
+APP0278,56,Male,Post Graduate,Self-Employed,988000,1245000,36,13.95,643,20.9,4,0.35,0,Home,0
+APP0279,23,Female,Post Graduate,Salaried,1169000,2096000,120,14.0,633,0.6,5,0.58,0,Medical,1
+APP0280,24,Male,Graduate,Unemployed,86000,97000,48,10.0,760,2.2,4,0.23,0,Personal,1
+APP0281,33,Female,Graduate,Salaried,606000,397000,12,10.19,809,5.6,1,0.43,0,Personal,0
+APP0282,42,Female,Graduate,Salaried,410000,897000,36,14.09,560,4.5,4,0.42,2,Vehicle,1
+APP0283,51,Male,Graduate,Self-Employed,835000,360000,48,12.61,692,16.5,0,0.42,2,Business,0
+APP0284,43,Female,High School,Salaried,591000,1248000,24,11.28,736,12.1,5,0.36,1,Home,0
+APP0285,40,Male,Post Graduate,Salaried,1224000,2225000,48,9.76,844,8.2,2,0.37,3,Personal,0
+APP0286,63,Female,Graduate,Salaried,498000,935000,36,9.32,854,10.1,0,0.31,2,Business,0
+APP0287,28,Male,Post Graduate,Salaried,1079000,1931000,48,13.98,624,1.4,0,0.35,0,Home,0
+APP0288,46,Male,Graduate,Business Owner,1771000,1092000,12,9.06,819,17.5,0,0.17,2,Home,0
+APP0289,45,Male,High School,Salaried,253000,371000,60,11.63,702,12.3,1,0.41,3,Vehicle,1
+APP0290,42,Male,Graduate,Business Owner,1363000,2335000,36,9.24,786,12.9,1,0.11,1,Home,0
+APP0291,57,Male,Graduate,Salaried,839000,1419000,24,10.22,764,19.2,2,0.28,0,Education,0
+APP0292,33,Female,Graduate,Business Owner,1005000,747000,36,13.87,592,7.8,0,0.11,4,Vehicle,0
+APP0293,63,Female,Graduate,Salaried,393000,221000,48,12.04,715,8.5,4,0.52,2,Home,0
+APP0294,35,Female,High School,Unemployed,156000,134000,48,10.62,775,6.0,1,0.38,0,Personal,0
+APP0295,45,Male,Graduate,Salaried,394000,457000,48,12.97,695,12.5,1,0.38,0,Vehicle,1
+APP0296,44,Male,Graduate,Salaried,564000,760000,12,13.59,666,3.9,1,0.51,0,Personal,0
+APP0297,59,Male,Doctorate,Salaried,947000,1775000,84,13.97,565,7.4,0,0.26,3,Vehicle,1
+APP0298,40,Female,High School,Salaried,578000,1005000,36,11.3,760,9.6,0,0.37,1,Vehicle,0
+APP0299,33,Female,Graduate,Salaried,482000,748000,12,11.5,709,8.1,1,0.34,0,Vehicle,0
+APP0300,21,Male,Graduate,Self-Employed,551000,401000,60,13.94,604,0.5,1,0.32,0,Business,1
+APP0301,37,Female,Graduate,Unemployed,155000,179000,48,11.69,657,2.1,1,0.49,0,Vehicle,0
+APP0302,58,Male,Graduate,Self-Employed,996000,867000,48,13.17,718,25.9,2,0.61,0,Personal,0
+APP0303,21,Male,Graduate,Salaried,1336000,895000,36,13.77,643,0.2,0,0.25,0,Business,0
+APP0304,61,Male,Post Graduate,Salaried,460000,101000,36,11.01,702,9.8,0,0.4,1,Personal,0
+APP0305,45,Male,Graduate,Business Owner,1228000,1079000,48,13.56,554,17.1,1,0.37,0,Education,1
+APP0306,27,Female,Graduate,Business Owner,752000,536000,12,10.94,793,3.9,2,0.4,1,Home,0
+APP0307,34,Female,High School,Salaried,643000,864000,36,11.8,695,9.3,1,0.36,0,Personal,0
+APP0308,45,Male,Graduate,Unemployed,108000,50000,120,13.73,614,14.6,0,0.26,0,Personal,0
+APP0309,35,Female,Graduate,Salaried,474000,351000,48,14.98,482,7.4,1,0.02,1,Personal,0
+APP0310,25,Female,High School,Business Owner,671000,194000,36,12.03,779,1.4,0,0.48,3,Personal,0
+APP0311,50,Female,Graduate,Unemployed,146000,216000,24,11.65,724,8.9,3,0.31,0,Home,0
+APP0312,51,Female,Graduate,Self-Employed,784000,1048000,60,13.68,717,20.7,2,0.33,1,Personal,0
+APP0313,26,Male,Post Graduate,Salaried,924000,808000,36,11.58,760,3.7,1,0.3,0,Personal,0
+APP0314,33,Female,Graduate,Self-Employed,699000,346000,24,10.14,752,4.1,2,0.27,1,Medical,0
+APP0315,31,Male,Graduate,Salaried,377000,798000,24,13.62,703,3.6,1,0.36,2,Personal,1
+APP0316,50,Female,Graduate,Business Owner,1419000,1942000,60,13.21,678,8.4,0,0.29,0,Vehicle,0
+APP0317,53,Male,High School,Salaried,442000,689000,48,12.93,658,9.8,1,0.24,2,Personal,0
+APP0318,53,Female,High School,Self-Employed,788000,995000,12,11.77,750,20.3,0,0.32,1,Personal,0
+APP0319,63,Male,Graduate,Unemployed,117000,212000,24,9.34,814,4.6,0,0.3,0,Education,0
+APP0320,55,Male,Doctorate,Salaried,548000,1092000,48,11.1,664,12.7,4,0.53,1,Vehicle,0
+APP0321,35,Female,High School,Salaried,445000,430000,48,10.17,820,10.0,1,0.17,0,Education,0
+APP0322,25,Female,Graduate,Self-Employed,1102000,1741000,60,12.86,716,2.1,1,0.23,1,Home,1
+APP0323,48,Male,Post Graduate,Salaried,825000,544000,24,12.15,711,10.4,3,0.48,0,Personal,0
+APP0324,62,Female,Post Graduate,Salaried,727000,1093000,60,10.37,900,12.1,1,0.25,0,Vehicle,0
+APP0325,64,Female,Graduate,Salaried,442000,441000,84,11.11,830,6.4,1,0.22,2,Personal,0
+APP0326,31,Male,Graduate,Salaried,1110000,237000,48,10.34,812,2.6,3,0.32,1,Vehicle,0
+APP0327,31,Female,Graduate,Self-Employed,488000,1030000,24,14.21,616,1.7,1,0.32,0,Business,0
+APP0328,22,Male,Post Graduate,Self-Employed,706000,1367000,48,10.56,877,0.4,0,0.29,0,Personal,0
+APP0329,27,Female,High School,Salaried,549000,429000,36,12.4,669,1.4,2,0.33,0,Personal,0
+APP0330,45,Male,Post Graduate,Salaried,407000,894000,12,12.38,663,7.0,2,0.24,0,Vehicle,0
+APP0331,45,Male,High School,Salaried,703000,586000,36,15.2,494,2.7,2,0.45,5,Medical,1
+APP0332,37,Female,Post Graduate,Salaried,970000,1084000,84,9.61,731,11.4,0,0.46,0,Vehicle,0
+APP0333,34,Female,High School,Self-Employed,719000,1368000,36,13.95,585,2.4,2,0.13,3,Personal,1
+APP0334,58,Female,High School,Salaried,547000,443000,84,11.98,740,12.5,0,0.11,0,Vehicle,0
+APP0335,41,Female,High School,Salaried,425000,468000,48,13.75,591,13.2,2,0.48,4,Education,0
+APP0336,57,Female,Graduate,Unemployed,103000,158000,48,10.27,834,6.1,2,0.55,0,Personal,0
+APP0337,64,Female,Graduate,Salaried,571000,263000,12,11.1,758,17.2,0,0.04,2,Vehicle,0
+APP0338,35,Female,High School,Self-Employed,373000,390000,48,7.48,895,9.1,0,0.4,0,Education,0
+APP0339,30,Male,Graduate,Salaried,711000,582000,24,14.95,592,4.3,2,0.56,1,Vehicle,1
+APP0340,63,Male,Graduate,Salaried,796000,1237000,36,9.95,817,9.7,2,0.26,0,Home,0
+APP0341,49,Male,Post Graduate,Salaried,1308000,617000,36,13.79,548,15.7,1,0.52,3,Medical,1
+APP0342,34,Female,Post Graduate,Business Owner,1629000,1084000,36,13.21,692,7.1,3,0.37,3,Personal,0
+APP0343,48,Male,Graduate,Business Owner,1520000,2467000,48,13.7,639,8.9,1,0.37,0,Home,0
+APP0344,44,Male,High School,Salaried,406000,208000,12,13.0,648,3.1,1,0.24,0,Personal,0
+APP0345,61,Female,Graduate,Salaried,508000,530000,36,13.59,635,4.3,2,0.48,1,Personal,1
+APP0346,32,Male,Post Graduate,Salaried,921000,1497000,120,12.38,613,7.1,1,0.43,0,Personal,1
+APP0347,65,Male,High School,Self-Employed,459000,794000,12,13.69,583,13.2,2,0.57,5,Personal,1
+APP0348,63,Female,Graduate,Self-Employed,769000,300000,36,13.73,654,7.9,1,0.5,0,Home,0
+APP0349,29,Female,Post Graduate,Self-Employed,628000,1196000,36,11.76,680,3.7,3,0.39,1,Education,1
+APP0350,28,Male,Post Graduate,Unemployed,143000,236000,36,10.26,763,5.2,4,0.79,0,Personal,1
+APP0351,44,Male,Graduate,Salaried,749000,658000,60,11.79,718,2.5,0,0.46,4,Personal,1
+APP0352,23,Male,Graduate,Self-Employed,955000,1650000,36,10.97,774,0.4,2,0.42,0,Personal,0
+APP0353,34,Female,Graduate,Self-Employed,496000,822000,36,14.59,562,4.9,1,0.21,5,Home,1
+APP0354,40,Female,Post Graduate,Salaried,986000,1382000,48,11.54,657,10.1,1,0.15,0,Business,0
+APP0355,64,Male,High School,Unemployed,93000,122000,36,9.02,763,17.0,1,0.16,0,Vehicle,0
+APP0356,65,Female,High School,Salaried,453000,756000,84,12.17,738,28.7,2,0.25,0,Personal,1
+APP0357,27,Male,Graduate,Self-Employed,1149000,2526000,120,12.48,610,0.9,1,0.5,1,Education,0
+APP0358,61,Male,High School,Self-Employed,696000,945000,24,10.49,768,12.5,2,0.42,2,Personal,0
+APP0359,25,Other,Graduate,Unemployed,198000,360000,36,11.17,639,1.6,1,0.26,1,Medical,1
+APP0360,54,Male,Graduate,Salaried,1170000,1976000,24,13.9,628,10.3,1,0.31,1,Education,1
+APP0361,59,Male,Post Graduate,Salaried,610000,1166000,24,11.65,742,15.3,1,0.3,0,Personal,0
+APP0362,61,Male,Post Graduate,Business Owner,1013000,2136000,48,12.08,711,23.5,1,0.43,0,Personal,0
+APP0363,31,Female,Graduate,Business Owner,854000,501000,48,13.13,641,3.2,1,0.22,0,Education,1
+APP0364,61,Female,Post Graduate,Salaried,714000,379000,36,11.04,654,22.4,2,0.4,3,Education,0
+APP0365,26,Female,Graduate,Business Owner,482000,662000,36,12.83,592,1.1,1,0.37,2,Personal,1
+APP0366,44,Male,Graduate,Salaried,558000,613000,36,12.22,661,10.5,1,0.23,3,Education,0
+APP0367,42,Male,High School,Self-Employed,434000,582000,120,10.38,768,7.2,3,0.58,0,Home,1
+APP0368,35,Female,Post Graduate,Business Owner,1881000,3378000,84,11.63,710,6.4,1,0.29,0,Business,0
+APP0369,21,Male,Post Graduate,Salaried,882000,1820000,12,11.36,756,0.2,2,0.24,0,Personal,0
+APP0370,55,Female,Post Graduate,Salaried,632000,654000,48,12.0,754,23.5,1,0.43,1,Personal,0
+APP0371,36,Female,Post Graduate,Unemployed,240000,393000,36,11.81,634,10.3,2,0.37,0,Personal,0
+APP0372,50,Male,Post Graduate,Business Owner,1842000,1093000,60,14.29,547,17.9,3,0.44,3,Vehicle,1
+APP0373,39,Female,High School,Business Owner,630000,800000,48,13.92,610,12.1,2,0.22,0,Personal,1
+APP0374,37,Male,Post Graduate,Salaried,656000,160000,84,12.33,629,3.2,1,0.43,1,Home,0
+APP0375,60,Male,Graduate,Unemployed,69000,83000,12,12.9,630,16.1,2,0.62,0,Education,1
+APP0376,25,Female,Graduate,Salaried,410000,529000,36,11.37,767,1.5,1,0.18,0,Personal,0
+APP0377,54,Male,Graduate,Salaried,463000,774000,120,10.9,774,21.5,3,0.43,2,Medical,1
+APP0378,54,Female,Graduate,Salaried,616000,923000,24,9.73,887,7.3,0,0.21,1,Vehicle,0
+APP0379,38,Female,Graduate,Business Owner,790000,724000,24,13.37,614,4.2,2,0.68,0,Medical,0
+APP0380,32,Other,High School,Unemployed,94000,50000,60,9.88,825,6.1,1,0.48,0,Personal,1
+APP0381,21,Other,High School,Self-Employed,342000,147000,60,9.31,817,0.2,1,0.36,1,Vehicle,0
+APP0382,63,Male,Graduate,Self-Employed,743000,1595000,48,12.35,690,23.2,1,0.18,0,Vehicle,0
+APP0383,63,Male,Post Graduate,Salaried,905000,1850000,60,11.42,744,11.2,0,0.18,1,Home,0
+APP0384,31,Female,Graduate,Salaried,691000,587000,60,9.92,786,5.5,2,0.45,1,Personal,0
+APP0385,22,Female,Graduate,Salaried,603000,433000,24,12.92,670,1.2,2,0.2,0,Home,0
+APP0386,26,Male,Graduate,Salaried,350000,375000,48,13.4,674,2.8,1,0.17,0,Vehicle,0
+APP0387,24,Male,Graduate,Salaried,483000,763000,60,12.64,622,0.9,2,0.36,2,Education,1
+APP0388,58,Male,High School,Business Owner,715000,653000,84,14.73,479,4.9,2,0.38,0,Medical,1
+APP0389,61,Male,Post Graduate,Self-Employed,790000,264000,36,11.48,694,5.2,1,0.38,1,Vehicle,0
+APP0390,27,Female,High School,Business Owner,847000,852000,24,12.05,607,1.1,3,0.34,1,Vehicle,0
+APP0391,54,Male,Post Graduate,Salaried,1285000,927000,60,14.85,617,15.2,0,0.41,1,Vehicle,0
+APP0392,29,Female,Post Graduate,Salaried,1036000,880000,36,11.21,729,2.8,0,0.2,0,Home,0
+APP0393,37,Female,Graduate,Salaried,425000,224000,12,13.23,572,4.2,0,0.38,2,Vehicle,0
+APP0394,47,Female,Post Graduate,Salaried,989000,1501000,60,10.11,766,6.3,0,0.33,1,Personal,1
+APP0395,53,Male,Graduate,Salaried,751000,941000,48,10.94,750,22.1,1,0.4,1,Personal,0
+APP0396,60,Male,Post Graduate,Salaried,588000,436000,36,11.98,664,6.9,0,0.44,1,Vehicle,0
+APP0397,23,Female,Post Graduate,Salaried,1050000,1373000,12,13.48,678,0.8,1,0.28,1,Business,1
+APP0398,29,Female,Post Graduate,Self-Employed,860000,1019000,12,12.61,593,3.4,0,0.22,3,Home,1
+APP0399,33,Male,Graduate,Salaried,366000,656000,60,9.94,755,1.3,0,0.1,0,Business,0
+APP0400,34,Female,Post Graduate,Salaried,915000,1932000,48,12.19,717,9.1,0,0.06,1,Home,0
+APP0401,65,Male,Doctorate,Salaried,1036000,478000,24,11.96,697,7.2,3,0.37,1,Business,0
+APP0402,55,Female,Graduate,Salaried,554000,1090000,36,11.37,730,17.8,3,0.38,0,Medical,0
+APP0403,35,Male,Post Graduate,Salaried,770000,1239000,24,13.41,636,7.2,1,0.2,2,Business,1
+APP0404,64,Male,Post Graduate,Salaried,606000,961000,24,13.85,584,25.8,1,0.23,2,Home,1
+APP0405,43,Female,Graduate,Self-Employed,867000,822000,36,10.81,777,11.3,1,0.51,0,Vehicle,0
+APP0406,43,Male,Post Graduate,Salaried,768000,682000,48,10.28,740,12.9,3,0.5,0,Business,0
+APP0407,40,Male,Graduate,Unemployed,159000,50000,24,11.49,645,7.1,1,0.18,1,Vehicle,0
+APP0408,27,Male,Graduate,Salaried,680000,1472000,36,11.38,704,2.8,3,0.34,0,Vehicle,1
+APP0409,63,Male,High School,Salaried,300000,424000,36,9.51,808,22.4,2,0.41,0,Vehicle,0
+APP0410,21,Female,High School,Salaried,329000,331000,36,10.91,787,0.4,0,0.22,2,Home,0
+APP0411,28,Male,Post Graduate,Salaried,360000,464000,24,11.37,646,3.3,0,0.2,0,Vehicle,0
+APP0412,31,Female,Graduate,Salaried,731000,205000,12,13.89,550,2.5,2,0.32,3,Home,1
+APP0413,33,Female,Graduate,Business Owner,720000,394000,12,13.87,566,3.3,2,0.49,2,Personal,1
+APP0414,26,Male,High School,Salaried,471000,681000,36,12.48,666,1.9,0,0.44,0,Vehicle,0
+APP0415,21,Male,Graduate,Self-Employed,797000,979000,60,10.97,790,0.1,3,0.3,0,Home,0
+APP0416,51,Female,Post Graduate,Salaried,963000,1709000,24,12.98,617,10.9,3,0.45,0,Home,0
+APP0417,64,Female,Post Graduate,Salaried,512000,777000,60,12.65,621,4.5,3,0.39,1,Medical,1
+APP0418,26,Female,High School,Salaried,440000,617000,60,14.12,625,2.6,2,0.24,0,Personal,0
+APP0419,34,Female,Graduate,Salaried,1077000,1971000,12,12.55,646,7.3,1,0.29,0,Personal,0
+APP0420,43,Male,Graduate,Salaried,1093000,368000,12,13.12,701,10.1,0,0.15,0,Personal,0
+APP0421,62,Male,Graduate,Unemployed,212000,335000,24,13.25,599,21.7,1,0.47,1,Personal,1
+APP0422,52,Female,Graduate,Self-Employed,788000,1285000,12,10.7,786,3.2,0,0.49,2,Vehicle,0
+APP0423,55,Male,Graduate,Unemployed,106000,80000,48,12.38,667,4.7,2,0.31,1,Personal,1
+APP0424,47,Female,Graduate,Salaried,772000,456000,12,9.18,900,14.0,1,0.25,0,Education,0
+APP0425,39,Male,Graduate,Business Owner,1041000,653000,60,13.22,596,11.1,1,0.46,4,Personal,1
+APP0426,29,Female,Graduate,Self-Employed,852000,508000,48,10.23,823,4.8,1,0.48,0,Education,0
+APP0427,59,Male,Graduate,Self-Employed,561000,700000,60,11.36,824,19.4,1,0.2,1,Business,0
+APP0428,57,Male,Post Graduate,Unemployed,184000,87000,60,13.29,670,19.4,1,0.31,2,Vehicle,0
+APP0429,22,Male,Post Graduate,Self-Employed,964000,1464000,48,13.47,658,1.1,0,0.29,2,Education,1
+APP0430,53,Male,Graduate,Business Owner,1199000,492000,84,11.93,633,17.6,0,0.21,0,Personal,0
+APP0431,24,Female,Post Graduate,Self-Employed,1082000,275000,120,12.45,607,2.2,1,0.38,2,Home,1
+APP0432,54,Male,Post Graduate,Salaried,637000,534000,36,12.35,688,4.9,1,0.25,3,Vehicle,0
+APP0433,58,Male,High School,Self-Employed,328000,191000,24,13.01,674,5.2,3,0.33,0,Business,1
+APP0434,26,Male,Graduate,Salaried,1060000,2308000,36,13.98,540,1.9,2,0.35,1,Personal,1
+APP0435,40,Male,Graduate,Unemployed,358000,289000,24,8.76,879,8.3,2,0.18,0,Personal,0
+APP0436,26,Female,Post Graduate,Business Owner,1672000,1077000,48,13.66,664,3.3,1,0.08,1,Vehicle,1
+APP0437,46,Male,High School,Salaried,283000,168000,36,12.83,681,7.8,3,0.5,1,Vehicle,0
+APP0438,62,Other,Graduate,Salaried,458000,434000,48,13.84,634,11.1,2,0.27,1,Home,0
+APP0439,24,Male,Graduate,Salaried,717000,1012000,60,12.58,638,2.3,4,0.68,1,Personal,0
+APP0440,38,Female,Graduate,Salaried,959000,1692000,36,12.11,665,4.5,0,0.54,0,Personal,1
+APP0441,64,Male,Post Graduate,Salaried,510000,474000,48,12.44,721,26.1,0,0.24,2,Home,0
+APP0442,34,Male,Graduate,Self-Employed,670000,973000,36,11.91,692,2.9,0,0.58,0,Home,1
+APP0443,26,Female,Post Graduate,Self-Employed,975000,1135000,60,10.84,745,1.9,2,0.47,2,Home,0
+APP0444,42,Female,Doctorate,Business Owner,2382000,4509000,48,11.12,710,7.5,1,0.25,1,Education,0
+APP0445,43,Female,Post Graduate,Salaried,692000,926000,12,10.84,750,6.4,1,0.02,1,Home,0
+APP0446,50,Male,High School,Salaried,260000,203000,48,12.93,685,3.1,1,0.41,0,Vehicle,0
+APP0447,35,Male,Post Graduate,Salaried,969000,1557000,24,10.82,698,3.6,2,0.36,1,Vehicle,1
+APP0448,64,Female,High School,Business Owner,1223000,2250000,60,12.97,669,13.3,2,0.41,1,Vehicle,1
+APP0449,44,Male,Graduate,Salaried,583000,659000,48,10.41,768,6.9,2,0.33,0,Home,0
+APP0450,33,Female,Post Graduate,Salaried,899000,1955000,36,11.68,710,7.4,2,0.22,2,Vehicle,0
+APP0451,64,Female,Graduate,Salaried,508000,995000,60,12.14,683,5.7,0,0.25,1,Business,1
+APP0452,62,Female,Graduate,Business Owner,818000,486000,84,12.08,683,14.0,1,0.41,1,Education,0
+APP0453,43,Female,Graduate,Salaried,859000,1523000,60,12.01,684,2.8,0,0.26,0,Education,1
+APP0454,22,Female,Post Graduate,Self-Employed,1042000,1461000,48,11.85,686,1.3,1,0.29,0,Vehicle,0
+APP0455,47,Male,Post Graduate,Self-Employed,1080000,1371000,60,11.48,704,15.5,0,0.12,2,Education,0
+APP0456,45,Male,Graduate,Business Owner,1861000,2285000,36,13.73,655,17.2,1,0.34,0,Education,1
+APP0457,27,Female,Post Graduate,Salaried,539000,1028000,60,11.36,744,4.5,2,0.23,0,Vehicle,0
+APP0458,49,Male,High School,Salaried,371000,527000,60,10.85,770,8.4,0,0.41,0,Vehicle,0
+APP0459,58,Male,High School,Salaried,476000,607000,24,9.13,857,19.6,1,0.24,1,Business,0
+APP0460,25,Male,Graduate,Salaried,492000,146000,36,12.81,624,1.4,2,0.32,1,Business,0
+APP0461,53,Female,Doctorate,Self-Employed,1473000,1615000,36,10.65,756,20.9,2,0.62,1,Vehicle,0
+APP0462,27,Female,High School,Salaried,421000,849000,24,15.51,507,2.4,3,0.35,6,Vehicle,1
+APP0463,54,Female,High School,Salaried,318000,516000,36,10.29,774,11.1,0,0.25,0,Medical,0
+APP0464,39,Male,High School,Salaried,460000,139000,24,12.11,573,12.3,1,0.4,2,Vehicle,1
+APP0465,21,Male,Post Graduate,Self-Employed,966000,1901000,48,13.68,591,0.6,2,0.15,2,Medical,1
+APP0466,64,Female,High School,Salaried,624000,1156000,24,11.09,746,29.9,1,0.48,1,Personal,0
+APP0467,28,Male,Graduate,Self-Employed,803000,1039000,36,12.7,622,1.1,2,0.48,0,Education,0
+APP0468,47,Female,Doctorate,Salaried,1128000,276000,48,13.97,617,6.6,2,0.42,0,Education,1
+APP0469,29,Female,High School,Unemployed,126000,167000,36,10.65,644,2.5,1,0.02,0,Home,0
+APP0470,62,Male,Graduate,Self-Employed,655000,203000,36,12.69,738,14.9,4,0.39,0,Business,0
+APP0471,54,Male,Graduate,Salaried,467000,393000,60,14.07,618,13.1,1,0.18,1,Education,1
+APP0472,57,Male,Post Graduate,Salaried,863000,1258000,120,11.65,690,10.2,1,0.46,1,Personal,0
+APP0473,40,Female,Graduate,Salaried,534000,1082000,48,12.06,672,11.5,0,0.43,1,Vehicle,0
+APP0474,42,Female,Graduate,Salaried,1084000,993000,12,11.41,766,5.1,0,0.35,1,Business,0
+APP0475,49,Male,High School,Salaried,720000,1382000,24,11.22,780,15.0,0,0.16,1,Personal,0
+APP0476,56,Female,Post Graduate,Business Owner,1785000,3636000,120,13.59,560,22.0,0,0.48,2,Home,0
+APP0477,59,Male,Post Graduate,Self-Employed,1039000,252000,48,9.21,800,18.0,0,0.27,0,Education,0
+APP0478,21,Male,High School,Salaried,436000,296000,60,14.86,622,0.3,2,0.58,1,Vehicle,1
+APP0479,50,Female,Graduate,Self-Employed,450000,729000,48,12.73,702,6.4,2,0.39,0,Business,0
+APP0480,25,Male,Post Graduate,Salaried,723000,1239000,24,13.58,603,0.9,1,0.39,0,Personal,1
+APP0481,33,Male,High School,Unemployed,117000,115000,36,11.81,722,7.1,1,0.27,0,Vehicle,0
+APP0482,58,Female,Graduate,Salaried,650000,984000,60,9.5,900,14.5,3,0.56,1,Business,0
+APP0483,32,Male,Graduate,Self-Employed,825000,1175000,84,12.79,687,1.5,2,0.43,0,Vehicle,0
+APP0484,56,Female,Graduate,Business Owner,1519000,2551000,36,10.62,681,24.9,0,0.47,0,Home,0
+APP0485,41,Male,Graduate,Salaried,471000,771000,48,12.09,675,10.6,1,0.35,2,Business,1
+APP0486,31,Male,Graduate,Salaried,472000,175000,24,13.66,565,6.7,1,0.32,2,Vehicle,0
+APP0487,36,Male,High School,Salaried,748000,386000,120,10.43,796,5.8,3,0.46,2,Business,0
+APP0488,44,Male,Graduate,Business Owner,1441000,671000,36,12.32,720,16.2,2,0.53,2,Vehicle,1
+APP0489,55,Male,Post Graduate,Salaried,680000,1404000,60,12.04,602,7.7,1,0.45,1,Personal,1
+APP0490,48,Male,Graduate,Self-Employed,674000,1366000,36,12.5,595,5.9,2,0.38,3,Education,1
+APP0491,62,Female,High School,Business Owner,796000,1429000,48,11.83,675,26.6,6,0.26,1,Vehicle,0
+APP0492,60,Male,Post Graduate,Business Owner,1446000,627000,48,10.74,792,25.4,1,0.43,0,Home,0
+APP0493,54,Male,High School,Salaried,531000,716000,36,14.17,600,13.6,1,0.16,1,Personal,1
+APP0494,48,Male,Post Graduate,Salaried,1894000,1088000,60,12.06,783,4.9,1,0.33,0,Education,0
+APP0495,34,Male,Graduate,Self-Employed,748000,701000,84,11.97,687,4.0,0,0.29,0,Education,0
+APP0496,39,Male,Post Graduate,Salaried,984000,722000,84,13.8,624,10.5,0,0.13,1,Vehicle,1
+APP0497,26,Female,High School,Business Owner,457000,849000,36,13.6,631,3.6,3,0.43,0,Vehicle,0
+APP0498,37,Male,High School,Salaried,380000,186000,60,10.26,845,5.2,0,0.56,0,Personal,0
+APP0499,62,Female,Graduate,Salaried,922000,1376000,48,13.92,571,5.7,1,0.29,5,Personal,1
+APP0500,40,Female,High School,Business Owner,950000,2059000,48,12.94,616,10.0,3,0.48,0,Personal,0
+APP0501,26,Male,High School,Salaried,97000,153000,36,10.02,775,3.3,0,0.58,0,Vehicle,0
+APP0502,50,Male,Post Graduate,Salaried,988000,354000,48,10.9,713,10.6,1,0.43,1,Vehicle,0
+APP0503,64,Male,Post Graduate,Salaried,1526000,3076000,24,13.31,631,19.8,2,0.28,0,Home,0
+APP0504,60,Female,High School,Salaried,224000,333000,36,10.38,805,27.7,0,0.33,0,Vehicle,0
+APP0505,33,Male,Post Graduate,Business Owner,2434000,2708000,24,10.59,772,3.2,1,0.39,0,Business,0
+APP0506,41,Female,Post Graduate,Salaried,296000,450000,36,12.46,705,9.3,3,0.56,1,Vehicle,0
+APP0507,44,Female,Post Graduate,Salaried,1083000,2121000,24,12.69,643,11.2,1,0.48,1,Medical,0
+APP0508,32,Female,Graduate,Salaried,598000,690000,24,12.15,641,5.2,2,0.03,0,Home,0
+APP0509,33,Female,Graduate,Unemployed,66000,83000,60,11.55,716,8.1,1,0.23,0,Personal,1
+APP0510,31,Other,Graduate,Salaried,701000,775000,48,14.62,569,5.1,2,0.35,1,Personal,0
+APP0511,65,Male,Graduate,Unemployed,224000,77000,12,9.55,809,18.2,2,0.24,1,Personal,0
+APP0512,54,Male,Post Graduate,Business Owner,1624000,2881000,60,10.04,842,5.9,0,0.02,2,Personal,0
+APP0513,58,Male,High School,Salaried,552000,250000,84,12.29,678,19.8,2,0.27,1,Home,0
+APP0514,57,Female,Graduate,Business Owner,952000,942000,84,10.97,728,6.6,0,0.3,0,Personal,0
+APP0515,64,Female,High School,Self-Employed,274000,267000,60,10.31,797,5.1,0,0.24,0,Vehicle,0
+APP0516,25,Female,Post Graduate,Salaried,994000,756000,120,8.36,859,2.0,0,0.18,0,Vehicle,0
+APP0517,60,Male,Graduate,Salaried,1107000,1113000,48,10.05,836,17.7,1,0.33,1,Home,0
+APP0518,23,Female,Graduate,Business Owner,1633000,2345000,120,13.23,545,2.1,0,0.34,1,Home,1
+APP0519,42,Male,Post Graduate,Business Owner,713000,587000,84,13.2,677,11.6,0,0.24,1,Business,0
+APP0520,47,Male,Doctorate,Business Owner,1036000,565000,36,11.39,736,16.4,2,0.52,1,Education,0
+APP0521,37,Female,High School,Unemployed,84000,163000,84,12.47,638,5.2,2,0.37,0,Vehicle,1
+APP0522,27,Male,Post Graduate,Salaried,447000,957000,60,10.99,829,2.8,2,0.26,2,Home,0
+APP0523,29,Male,Post Graduate,Business Owner,1452000,1622000,60,9.49,812,6.2,3,0.26,0,Personal,0
+APP0524,58,Female,High School,Business Owner,947000,809000,84,12.59,621,13.3,2,0.33,0,Personal,1
+APP0525,35,Male,Post Graduate,Salaried,473000,140000,36,10.73,687,8.8,0,0.43,1,Medical,0
+APP0526,34,Male,Graduate,Salaried,788000,216000,36,14.05,633,5.8,0,0.2,2,Personal,0
+APP0527,62,Male,Graduate,Salaried,740000,729000,48,13.96,669,9.8,2,0.43,0,Education,0
+APP0528,27,Male,Graduate,Business Owner,908000,1871000,60,11.28,659,3.1,2,0.37,0,Home,1
+APP0529,62,Female,Graduate,Salaried,565000,939000,84,10.1,783,9.7,0,0.54,0,Education,0
+APP0530,62,Female,High School,Self-Employed,265000,238000,84,13.26,620,4.3,0,0.35,2,Personal,0
+APP0531,47,Male,High School,Salaried,401000,857000,60,15.08,467,6.5,1,0.25,3,Medical,1
+APP0532,28,Male,High School,Salaried,451000,477000,120,14.13,556,1.7,0,0.39,3,Home,1
+APP0533,28,Male,Graduate,Self-Employed,743000,560000,24,13.56,590,2.6,2,0.45,2,Vehicle,1
+APP0534,33,Female,Graduate,Salaried,685000,721000,120,13.53,620,8.2,3,0.34,1,Personal,0
+APP0535,46,Female,High School,Business Owner,899000,560000,12,10.99,716,8.7,0,0.16,0,Personal,1
+APP0536,27,Female,Graduate,Salaried,547000,1078000,48,13.61,603,4.2,0,0.36,0,Personal,1
+APP0537,41,Male,Graduate,Unemployed,166000,153000,24,12.64,598,9.1,0,0.31,0,Vehicle,1
+APP0538,26,Male,Graduate,Salaried,852000,1292000,48,13.23,596,0.6,2,0.18,2,Education,1
+APP0539,45,Male,Post Graduate,Unemployed,189000,185000,36,12.2,594,5.3,1,0.36,7,Vehicle,1
+APP0540,21,Female,Graduate,Self-Employed,782000,1567000,24,12.52,644,0.7,0,0.22,0,Vehicle,1
+APP0541,52,Male,Post Graduate,Salaried,731000,1085000,48,12.19,657,14.8,0,0.12,0,Personal,0
+APP0542,23,Female,High School,Salaried,359000,422000,60,12.11,743,2.0,1,0.29,1,Home,0
+APP0543,29,Female,Post Graduate,Salaried,937000,435000,24,13.44,601,2.6,1,0.48,2,Vehicle,0
+APP0544,28,Male,Doctorate,Self-Employed,922000,1848000,60,12.74,657,4.2,1,0.47,0,Medical,0
+APP0545,58,Male,Post Graduate,Business Owner,1637000,2118000,24,12.57,661,21.4,1,0.44,1,Vehicle,0
+APP0546,23,Male,Graduate,Salaried,606000,467000,24,9.5,753,2.1,1,0.36,2,Education,0
+APP0547,40,Male,Graduate,Salaried,539000,1054000,24,10.7,680,2.2,0,0.37,0,Medical,0
+APP0548,47,Male,Graduate,Self-Employed,624000,193000,48,10.35,793,18.1,1,0.34,0,Education,0
+APP0549,44,Female,Graduate,Salaried,502000,416000,60,13.81,594,8.0,1,0.2,2,Personal,0
+APP0550,51,Male,Post Graduate,Self-Employed,512000,652000,48,11.93,692,18.7,2,0.25,0,Home,1
+APP0551,57,Male,Doctorate,Salaried,1098000,966000,60,12.15,644,15.8,2,0.29,0,Business,0
+APP0552,38,Female,Graduate,Self-Employed,759000,875000,48,13.5,587,7.9,1,0.5,1,Home,1
+APP0553,58,Female,High School,Unemployed,151000,110000,60,11.87,691,12.0,1,0.46,1,Vehicle,0
+APP0554,35,Male,Graduate,Salaried,498000,229000,120,10.64,832,9.0,2,0.23,2,Medical,0
+APP0555,65,Female,High School,Salaried,874000,239000,36,13.61,631,11.6,0,0.31,1,Personal,0
+APP0556,43,Female,High School,Salaried,394000,203000,24,11.83,682,9.1,1,0.28,1,Education,0
+APP0557,54,Female,Graduate,Self-Employed,515000,1085000,24,13.64,588,14.8,1,0.31,2,Home,0
+APP0558,60,Female,Post Graduate,Salaried,551000,744000,48,14.08,576,21.8,2,0.3,3,Home,0
+APP0559,56,Male,High School,Unemployed,61000,72000,48,13.24,640,13.8,0,0.47,0,Education,1
+APP0560,59,Female,High School,Self-Employed,898000,870000,24,13.8,668,19.8,1,0.33,0,Vehicle,0
+APP0561,45,Male,High School,Salaried,727000,1175000,84,12.47,667,9.8,0,0.33,1,Vehicle,1
+APP0562,22,Female,Post Graduate,Business Owner,1765000,852000,120,13.35,672,1.0,0,0.33,0,Medical,0
+APP0563,43,Female,Graduate,Salaried,438000,329000,36,13.23,556,11.6,1,0.21,7,Personal,1
+APP0564,29,Male,High School,Business Owner,1555000,2351000,24,12.6,626,4.7,2,0.37,0,Medical,0
+APP0565,61,Male,High School,Salaried,398000,461000,24,9.48,754,24.4,1,0.46,0,Vehicle,0
+APP0566,31,Female,Graduate,Self-Employed,637000,1108000,36,14.4,548,4.7,4,0.6,1,Vehicle,1
+APP0567,31,Female,Graduate,Unemployed,248000,495000,84,13.07,663,2.4,0,0.16,1,Personal,0
+APP0568,32,Male,Graduate,Business Owner,1385000,2558000,48,9.75,714,6.1,1,0.15,1,Vehicle,0
+APP0569,49,Female,Graduate,Business Owner,2377000,1351000,12,13.46,613,4.2,2,0.37,0,Education,1
+APP0570,46,Female,Post Graduate,Salaried,851000,326000,36,12.21,718,6.0,1,0.46,0,Business,0
+APP0571,63,Male,Graduate,Business Owner,957000,516000,24,14.09,590,24.7,0,0.34,6,Personal,0
+APP0572,39,Male,Graduate,Self-Employed,565000,998000,36,10.29,750,6.9,3,0.47,0,Education,0
+APP0573,33,Male,High School,Self-Employed,275000,558000,36,12.21,727,5.2,0,0.14,1,Vehicle,0
+APP0574,23,Female,Post Graduate,Salaried,708000,1452000,48,12.17,689,2.1,1,0.26,2,Education,0
+APP0575,21,Male,Doctorate,Salaried,1433000,1141000,48,11.66,754,0.2,4,0.16,0,Personal,0
+APP0576,37,Female,Post Graduate,Self-Employed,1122000,2110000,84,12.8,640,1.9,3,0.37,1,Vehicle,1
+APP0577,62,Male,Graduate,Salaried,604000,769000,12,13.23,638,7.0,1,0.07,2,Business,0
+APP0578,44,Female,High School,Self-Employed,371000,685000,60,11.54,790,5.9,3,0.55,0,Vehicle,0
+APP0579,61,Male,Post Graduate,Business Owner,1548000,2007000,12,9.24,873,22.0,0,0.49,1,Vehicle,0
+APP0580,25,Male,Post Graduate,Unemployed,278000,137000,36,13.58,610,2.8,3,0.41,1,Personal,1
+APP0581,25,Female,High School,Salaried,523000,187000,84,13.49,667,2.2,2,0.18,0,Business,0
+APP0582,58,Male,Graduate,Unemployed,159000,336000,60,10.54,790,9.6,0,0.35,2,Business,0
+APP0583,25,Female,Graduate,Salaried,454000,477000,24,11.43,678,2.1,1,0.55,2,Vehicle,0
+APP0584,23,Female,Post Graduate,Salaried,1057000,952000,48,12.17,725,0.3,2,0.42,0,Vehicle,0
+APP0585,39,Female,Graduate,Business Owner,368000,336000,60,12.25,760,9.7,1,0.47,0,Personal,0
+APP0586,62,Female,Graduate,Salaried,686000,657000,84,13.9,642,19.7,3,0.33,1,Business,0
+APP0587,52,Male,Graduate,Salaried,1475000,3083000,48,12.48,706,3.6,3,0.29,0,Medical,0
+APP0588,25,Female,Graduate,Salaried,354000,115000,12,10.35,685,3.0,1,0.32,2,Vehicle,0
+APP0589,58,Female,Graduate,Salaried,551000,241000,48,12.93,604,21.2,1,0.1,1,Personal,0
+APP0590,58,Male,High School,Business Owner,823000,1464000,24,12.99,603,10.8,2,0.63,0,Education,0
+APP0591,57,Male,Post Graduate,Salaried,663000,861000,12,12.82,648,17.8,1,0.35,1,Home,1
+APP0592,61,Female,Graduate,Salaried,862000,394000,48,12.21,776,18.9,2,0.46,0,Education,0
+APP0593,31,Male,Graduate,Self-Employed,826000,222000,60,10.27,758,2.0,2,0.3,1,Home,0
+APP0594,65,Female,High School,Salaried,475000,308000,12,12.94,757,9.7,1,0.14,0,Vehicle,0
+APP0595,35,Female,High School,Self-Employed,694000,501000,60,11.26,729,7.6,1,0.5,1,Vehicle,0
+APP0596,57,Female,Graduate,Unemployed,151000,50000,60,10.7,746,24.4,1,0.2,0,Personal,0
+APP0597,47,Male,High School,Business Owner,2511000,1587000,60,12.38,720,12.0,1,0.37,0,Personal,0
+APP0598,56,Male,High School,Business Owner,870000,1459000,36,12.2,736,15.9,1,0.38,2,Home,0
+APP0599,49,Male,Post Graduate,Salaried,835000,1596000,36,11.93,739,14.2,1,0.34,0,Personal,0
+APP0600,49,Male,Graduate,Business Owner,604000,1206000,24,13.26,575,10.6,1,0.24,2,Home,1
+APP0601,48,Female,Graduate,Salaried,496000,486000,36,13.74,611,3.7,2,0.34,0,Home,1
+APP0602,56,Female,Graduate,Salaried,897000,752000,36,12.66,601,12.2,2,0.25,0,Medical,0
+APP0603,54,Male,Post Graduate,Self-Employed,570000,1254000,36,9.83,802,21.8,1,0.43,0,Home,0
+APP0604,27,Male,Graduate,Salaried,282000,490000,24,10.0,828,4.1,1,0.4,0,Education,0
+APP0605,58,Female,Post Graduate,Business Owner,1446000,1843000,24,14.04,520,24.9,2,0.36,3,Personal,1
+APP0606,45,Male,Post Graduate,Self-Employed,1470000,1043000,84,11.03,821,4.8,1,0.26,1,Vehicle,0
+APP0607,35,Female,Graduate,Unemployed,152000,128000,60,11.46,705,6.1,0,0.55,0,Vehicle,0
+APP0608,44,Male,Graduate,Salaried,533000,656000,36,10.61,781,10.8,1,0.17,1,Personal,0
+APP0609,64,Female,Post Graduate,Salaried,407000,523000,84,10.62,745,9.9,0,0.11,1,Personal,0
+APP0610,59,Male,Graduate,Self-Employed,820000,186000,36,10.99,823,8.6,0,0.29,0,Vehicle,0
+APP0611,58,Female,Graduate,Salaried,756000,1602000,36,11.08,726,21.6,1,0.3,0,Business,1
+APP0612,41,Male,Graduate,Salaried,322000,435000,60,14.85,571,10.6,2,0.49,2,Home,1
+APP0613,56,Female,Graduate,Self-Employed,1041000,1435000,36,12.82,702,17.6,0,0.38,0,Vehicle,0
+APP0614,38,Male,High School,Unemployed,147000,92000,36,11.06,739,4.7,0,0.3,1,Education,0
+APP0615,51,Male,Graduate,Self-Employed,1040000,1799000,36,12.22,687,12.5,0,0.36,0,Home,0
+APP0616,49,Female,High School,Salaried,552000,924000,48,11.11,734,3.3,2,0.42,2,Medical,0
+APP0617,32,Male,Graduate,Salaried,754000,294000,48,12.63,687,2.1,0,0.55,1,Personal,0
+APP0618,32,Male,Graduate,Self-Employed,840000,1168000,36,12.79,637,4.9,1,0.36,1,Education,1
+APP0619,23,Male,Post Graduate,Salaried,1057000,1603000,36,13.42,583,0.9,2,0.28,3,Vehicle,1
+APP0620,27,Male,High School,Salaried,238000,445000,36,12.97,638,4.8,3,0.41,0,Education,0
+APP0621,40,Male,Graduate,Salaried,355000,217000,48,10.72,701,7.7,2,0.05,0,Personal,0
+APP0622,42,Female,Graduate,Salaried,464000,907000,24,14.89,503,3.3,3,0.39,3,Vehicle,1
+APP0623,28,Male,High School,Salaried,430000,483000,84,13.76,617,0.9,1,0.46,1,Business,1
+APP0624,39,Female,High School,Salaried,515000,202000,60,14.62,533,10.2,0,0.37,4,Education,1
+APP0625,48,Female,High School,Self-Employed,588000,242000,36,13.72,636,5.7,1,0.37,1,Education,1
+APP0626,31,Male,High School,Salaried,665000,396000,60,10.39,787,2.3,1,0.41,0,Medical,0
+APP0627,36,Female,Graduate,Self-Employed,1046000,801000,12,13.43,580,5.7,2,0.49,3,Business,0
+APP0628,37,Female,Graduate,Salaried,442000,527000,36,10.28,755,4.4,0,0.47,0,Education,0
+APP0629,43,Female,Graduate,Business Owner,1196000,2030000,36,8.68,900,10.8,2,0.41,0,Vehicle,0
+APP0630,37,Male,High School,Salaried,334000,192000,36,11.74,822,6.7,0,0.26,1,Business,0
+APP0631,54,Male,High School,Salaried,421000,920000,60,12.22,700,5.7,1,0.05,1,Personal,0
+APP0632,35,Male,High School,Salaried,504000,264000,120,10.44,773,8.6,0,0.42,1,Personal,0
+APP0633,40,Female,Graduate,Salaried,182000,255000,36,13.09,574,7.1,1,0.39,4,Personal,1
+APP0634,38,Other,Graduate,Salaried,1395000,2871000,36,12.73,566,8.4,0,0.32,3,Medical,1
+APP0635,29,Female,Graduate,Business Owner,1341000,2501000,48,11.67,678,0.9,2,0.28,1,Vehicle,0
+APP0636,51,Male,High School,Unemployed,91000,136000,36,12.22,726,14.8,2,0.48,1,Home,0
+APP0637,31,Female,High School,Salaried,883000,1440000,24,10.35,787,3.0,0,0.27,0,Vehicle,0
+APP0638,34,Male,Post Graduate,Salaried,691000,324000,120,12.37,624,5.6,3,0.39,1,Personal,0
+APP0639,56,Female,High School,Self-Employed,550000,121000,60,11.29,702,10.0,2,0.35,1,Vehicle,0
+APP0640,63,Male,High School,Self-Employed,443000,473000,120,12.04,732,30.0,1,0.38,1,Education,0
+APP0641,51,Female,High School,Salaried,802000,304000,24,12.11,688,7.4,0,0.16,1,Personal,0
+APP0642,62,Female,Doctorate,Business Owner,1697000,1554000,12,11.5,700,27.2,2,0.43,1,Vehicle,0
+APP0643,59,Male,Graduate,Salaried,632000,409000,36,12.77,632,25.4,2,0.27,0,Medical,1
+APP0644,42,Male,Graduate,Self-Employed,1067000,2169000,84,13.66,707,7.8,2,0.28,1,Vehicle,1
+APP0645,55,Female,Doctorate,Salaried,1178000,2309000,24,12.83,710,9.9,1,0.44,0,Personal,0
+APP0646,35,Male,High School,Salaried,442000,812000,24,14.04,642,4.9,2,0.24,1,Personal,1
+APP0647,41,Female,Doctorate,Salaried,1416000,2305000,12,9.76,756,14.6,1,0.44,1,Home,0
+APP0648,45,Female,High School,Business Owner,2006000,1019000,60,10.74,776,11.8,2,0.37,2,Vehicle,0
+APP0649,64,Female,Graduate,Salaried,670000,199000,60,10.67,754,18.8,2,0.16,0,Home,0
+APP0650,59,Male,Graduate,Business Owner,1146000,1728000,60,13.83,607,4.7,0,0.46,1,Personal,1
+APP0651,43,Male,Graduate,Business Owner,1168000,1734000,12,12.62,715,14.0,0,0.34,0,Personal,0
+APP0652,50,Male,Post Graduate,Self-Employed,1440000,1352000,60,13.61,610,4.5,1,0.38,0,Home,0
+APP0653,30,Female,High School,Salaried,365000,418000,36,11.3,700,1.3,0,0.42,0,Vehicle,0
+APP0654,57,Male,Doctorate,Salaried,871000,1026000,24,12.72,617,9.8,1,0.51,1,Medical,0
+APP0655,45,Male,Graduate,Salaried,350000,238000,36,10.97,802,9.6,1,0.35,0,Education,0
+APP0656,44,Male,Graduate,Self-Employed,463000,384000,48,11.57,767,15.3,1,0.4,0,Business,0
+APP0657,55,Female,Doctorate,Unemployed,200000,207000,36,10.55,804,20.1,1,0.37,2,Home,0
+APP0658,49,Male,High School,Salaried,441000,620000,120,11.04,771,6.3,2,0.32,0,Home,0
+APP0659,24,Female,Post Graduate,Business Owner,2656000,5000000,36,12.75,653,1.3,2,0.17,0,Vehicle,0
+APP0660,33,Female,Graduate,Salaried,724000,925000,36,12.89,655,7.4,1,0.36,1,Education,0
+APP0661,28,Female,Post Graduate,Salaried,567000,943000,48,10.8,818,3.3,3,0.56,0,Business,1
+APP0662,54,Female,High School,Salaried,349000,633000,48,12.86,676,7.0,1,0.4,1,Personal,0
+APP0663,22,Female,Graduate,Self-Employed,1133000,484000,12,14.0,568,0.7,1,0.2,1,Personal,0
+APP0664,30,Female,Graduate,Salaried,890000,1341000,48,10.75,781,4.8,0,0.43,0,Personal,0
+APP0665,47,Male,Graduate,Salaried,606000,706000,36,11.81,708,18.5,2,0.32,0,Personal,0
+APP0666,52,Female,High School,Business Owner,707000,951000,36,9.68,813,15.9,3,0.14,0,Personal,0
+APP0667,43,Female,High School,Salaried,667000,185000,60,11.16,714,2.5,0,0.42,0,Personal,0
+APP0668,59,Female,Post Graduate,Salaried,551000,1109000,48,12.24,713,20.4,0,0.19,0,Business,0
+APP0669,62,Female,High School,Salaried,516000,1086000,36,9.57,824,10.5,1,0.54,2,Personal,0
+APP0670,26,Female,Post Graduate,Salaried,1728000,358000,24,15.05,540,3.7,3,0.53,1,Vehicle,1
+APP0671,63,Female,Doctorate,Salaried,1032000,646000,48,12.84,641,14.2,2,0.33,2,Vehicle,0
+APP0672,48,Male,High School,Salaried,343000,192000,36,13.83,622,6.2,0,0.36,1,Vehicle,0
+APP0673,49,Male,High School,Self-Employed,606000,1068000,84,15.25,517,11.0,0,0.59,2,Education,1
+APP0674,25,Male,Graduate,Salaried,509000,711000,48,12.04,742,1.3,3,0.51,1,Vehicle,0
+APP0675,48,Male,High School,Self-Employed,322000,179000,84,12.47,643,6.8,1,0.36,0,Vehicle,1
+APP0676,53,Male,Graduate,Salaried,767000,1402000,36,11.17,777,14.7,1,0.68,1,Home,0
+APP0677,47,Male,Graduate,Salaried,887000,804000,60,12.46,709,15.1,4,0.43,1,Business,0
+APP0678,24,Male,Graduate,Salaried,538000,603000,12,10.22,736,2.4,1,0.4,1,Personal,0
+APP0679,44,Female,Graduate,Salaried,526000,513000,36,14.07,653,8.1,1,0.22,1,Education,1
+APP0680,63,Male,Graduate,Salaried,429000,533000,12,14.83,632,6.0,0,0.1,0,Medical,0
+APP0681,53,Female,Graduate,Salaried,569000,660000,12,12.56,713,12.9,0,0.27,1,Medical,0
+APP0682,27,Female,High School,Unemployed,92000,69000,84,11.58,771,2.5,0,0.3,0,Business,0
+APP0683,64,Male,Graduate,Business Owner,772000,810000,60,12.52,697,9.6,0,0.34,0,Home,1
+APP0684,64,Male,Post Graduate,Salaried,1513000,3051000,48,12.4,656,28.1,1,0.16,2,Vehicle,0
+APP0685,28,Male,Graduate,Self-Employed,824000,994000,48,13.85,571,5.5,3,0.47,2,Vehicle,1
+APP0686,57,Female,Graduate,Self-Employed,855000,1738000,48,12.7,705,4.8,1,0.23,0,Personal,1
+APP0687,39,Male,Graduate,Business Owner,1499000,1949000,48,11.88,656,11.0,0,0.37,0,Personal,0
+APP0688,47,Male,High School,Salaried,589000,1023000,60,11.27,692,13.2,1,0.44,1,Personal,0
+APP0689,41,Female,High School,Salaried,389000,306000,48,12.16,668,5.4,1,0.28,0,Personal,0
+APP0690,56,Female,High School,Salaried,495000,882000,60,13.29,649,17.3,3,0.27,0,Medical,1
+APP0691,65,Male,Doctorate,Salaried,874000,637000,36,10.93,725,8.0,0,0.49,1,Personal,0
+APP0692,56,Male,High School,Salaried,525000,126000,120,11.41,727,5.1,2,0.46,0,Business,0
+APP0693,62,Male,Post Graduate,Business Owner,1612000,841000,12,9.03,892,29.2,0,0.32,0,Business,0
+APP0694,63,Male,High School,Unemployed,98000,50000,36,10.25,763,20.7,2,0.54,0,Education,0
+APP0695,25,Male,Graduate,Salaried,377000,789000,84,8.26,819,1.3,1,0.34,0,Business,0
+APP0696,32,Female,Graduate,Salaried,632000,1390000,24,12.29,626,4.4,0,0.23,0,Home,1
+APP0697,53,Female,Graduate,Salaried,559000,964000,24,14.25,564,22.1,2,0.24,0,Home,0
+APP0698,47,Female,Post Graduate,Salaried,402000,167000,36,12.49,693,9.8,1,0.32,0,Medical,0
+APP0699,23,Female,Post Graduate,Self-Employed,1087000,2172000,36,11.42,765,1.9,0,0.39,1,Vehicle,0
+APP0700,25,Male,Post Graduate,Salaried,1094000,1846000,84,11.81,745,3.1,1,0.5,1,Vehicle,0
+APP0701,44,Female,High School,Business Owner,1999000,1728000,60,9.97,802,7.4,0,0.3,0,Medical,0
+APP0702,48,Female,Post Graduate,Unemployed,170000,205000,36,14.69,476,14.5,2,0.51,2,Vehicle,1
+APP0703,28,Female,High School,Self-Employed,435000,663000,120,10.91,793,4.0,1,0.3,0,Education,0
+APP0704,28,Female,Post Graduate,Self-Employed,617000,153000,48,11.59,716,4.5,1,0.24,2,Home,0
+APP0705,26,Male,Graduate,Salaried,645000,776000,84,14.81,561,1.9,0,0.14,2,Vehicle,1
+APP0706,46,Male,Graduate,Salaried,644000,1072000,36,11.59,748,3.4,1,0.27,0,Home,0
+APP0707,21,Male,High School,Salaried,339000,195000,48,13.31,681,0.2,3,0.24,2,Home,0
+APP0708,46,Male,High School,Self-Employed,494000,537000,12,11.07,737,12.2,0,0.54,1,Business,1
+APP0709,42,Female,High School,Salaried,225000,285000,12,11.86,766,12.4,3,0.44,3,Education,1
+APP0710,41,Male,Post Graduate,Business Owner,1978000,3305000,60,13.15,732,11.6,1,0.32,1,Personal,0
+APP0711,51,Female,Post Graduate,Salaried,596000,1269000,24,14.05,566,14.0,2,0.57,4,Home,1
+APP0712,44,Female,Doctorate,Salaried,948000,1798000,48,12.91,666,3.6,2,0.2,4,Vehicle,1
+APP0713,53,Male,High School,Salaried,273000,394000,60,13.4,557,3.6,0,0.28,2,Personal,0
+APP0714,55,Male,Graduate,Unemployed,122000,167000,12,12.04,745,19.9,3,0.63,0,Vehicle,0
+APP0715,62,Female,Graduate,Salaried,544000,765000,36,11.31,806,18.0,3,0.37,0,Education,0
+APP0716,56,Female,Graduate,Salaried,598000,772000,60,12.97,609,20.5,0,0.59,0,Education,1
+APP0717,44,Male,Graduate,Salaried,710000,226000,84,13.5,631,4.7,1,0.42,1,Home,1
+APP0718,43,Male,Graduate,Self-Employed,1158000,1849000,36,13.48,616,7.9,1,0.49,1,Home,0
+APP0719,31,Female,Graduate,Unemployed,194000,317000,120,12.91,660,7.2,0,0.46,1,Vehicle,0
+APP0720,47,Male,High School,Salaried,630000,772000,60,12.53,708,5.5,3,0.39,1,Home,0
+APP0721,27,Female,Graduate,Unemployed,249000,483000,48,13.47,630,1.0,3,0.33,0,Education,1
+APP0722,62,Male,Graduate,Salaried,732000,1131000,36,10.84,770,20.7,0,0.29,0,Home,0
+APP0723,59,Male,High School,Self-Employed,518000,479000,60,11.26,794,17.8,1,0.21,0,Business,0
+APP0724,26,Male,Post Graduate,Salaried,1110000,266000,60,11.69,780,4.0,1,0.32,0,Vehicle,0
+APP0725,56,Male,Graduate,Salaried,873000,278000,36,12.71,623,23.2,0,0.3,0,Personal,1
+APP0726,26,Male,Post Graduate,Self-Employed,1142000,1032000,120,10.56,796,3.3,2,0.56,0,Personal,0
+APP0727,53,Male,Graduate,Salaried,361000,406000,84,9.16,795,3.7,3,0.46,1,Vehicle,0
+APP0728,24,Other,Post Graduate,Salaried,581000,310000,48,10.73,816,1.6,1,0.61,0,Education,0
+APP0729,42,Male,Post Graduate,Business Owner,1299000,752000,60,13.2,685,14.0,1,0.07,0,Vehicle,0
+APP0730,50,Male,Post Graduate,Unemployed,256000,169000,48,12.95,623,10.8,2,0.21,0,Vehicle,0
+APP0731,53,Male,Graduate,Salaried,596000,1050000,60,13.35,617,22.4,2,0.32,0,Vehicle,0
+APP0732,39,Male,Graduate,Self-Employed,1042000,1816000,60,13.2,608,9.3,0,0.48,1,Home,0
+APP0733,62,Female,High School,Business Owner,1307000,1262000,12,11.83,691,7.0,1,0.32,0,Business,0
+APP0734,55,Male,Graduate,Salaried,913000,497000,12,11.24,763,14.2,2,0.18,0,Personal,0
+APP0735,30,Female,High School,Business Owner,1258000,531000,36,9.77,807,5.2,0,0.27,0,Home,0
+APP0736,51,Male,High School,Salaried,313000,117000,84,12.74,638,4.3,2,0.22,1,Business,0
+APP0737,53,Female,High School,Business Owner,977000,960000,36,11.29,699,10.1,0,0.13,1,Home,0
+APP0738,36,Male,Graduate,Salaried,485000,141000,84,12.97,667,8.5,3,0.63,1,Home,0
+APP0739,54,Female,High School,Salaried,253000,219000,36,13.39,620,6.6,3,0.35,1,Home,0
+APP0740,61,Male,Graduate,Salaried,543000,1153000,36,10.88,752,12.7,2,0.38,0,Medical,0
+APP0741,57,Male,Post Graduate,Salaried,1240000,1507000,84,11.37,744,19.0,0,0.29,1,Education,0
+APP0742,55,Female,Post Graduate,Business Owner,1680000,3100000,48,11.55,718,19.8,1,0.3,0,Personal,0
+APP0743,49,Female,Graduate,Unemployed,304000,139000,36,12.75,711,11.9,3,0.29,0,Personal,0
+APP0744,33,Female,Graduate,Salaried,638000,470000,12,10.85,753,8.8,0,0.26,0,Vehicle,0
+APP0745,56,Male,Graduate,Salaried,1413000,2958000,24,11.7,754,23.6,2,0.4,1,Vehicle,0
+APP0746,37,Female,Graduate,Salaried,638000,617000,24,12.65,619,6.5,1,0.5,0,Home,1
+APP0747,44,Female,Graduate,Salaried,605000,906000,36,11.57,772,4.7,0,0.41,0,Personal,0
+APP0748,35,Female,High School,Salaried,288000,620000,48,12.74,706,8.5,2,0.21,1,Vehicle,0
+APP0749,35,Male,Doctorate,Business Owner,2596000,3379000,36,13.75,641,3.7,2,0.48,0,Vehicle,0
+APP0750,28,Female,High School,Business Owner,692000,561000,12,13.06,708,4.8,1,0.39,1,Home,0
+APP0751,64,Female,Post Graduate,Salaried,622000,786000,36,11.71,735,19.9,1,0.26,2,Personal,0
+APP0752,27,Female,Graduate,Salaried,940000,291000,36,11.84,777,2.4,1,0.35,2,Personal,0
+APP0753,24,Male,High School,Self-Employed,787000,334000,120,14.99,587,1.7,2,0.43,0,Vehicle,1
+APP0754,63,Male,Post Graduate,Salaried,1159000,248000,36,9.48,808,18.0,2,0.37,1,Vehicle,0
+APP0755,45,Female,High School,Salaried,396000,779000,24,11.46,704,16.4,1,0.39,0,Education,0
+APP0756,40,Male,Post Graduate,Salaried,766000,1182000,48,11.76,636,4.6,2,0.26,0,Education,0
+APP0757,54,Female,Graduate,Salaried,588000,468000,84,13.52,655,22.3,2,0.6,3,Home,1
+APP0758,38,Male,High School,Salaried,592000,380000,60,12.43,591,2.1,2,0.13,5,Personal,1
+APP0759,26,Male,High School,Business Owner,1421000,2226000,60,13.13,530,3.4,2,0.43,1,Home,1
+APP0760,53,Female,Post Graduate,Salaried,887000,1809000,84,10.03,773,21.5,0,0.34,1,Home,0
+APP0761,28,Male,Graduate,Self-Employed,1397000,1115000,48,8.18,862,2.7,0,0.38,1,Home,0
+APP0762,45,Male,Post Graduate,Salaried,1068000,900000,120,14.6,541,3.6,2,0.27,2,Education,1
+APP0763,63,Female,Post Graduate,Business Owner,1317000,2513000,12,12.05,639,25.1,0,0.44,2,Personal,0
+APP0764,63,Female,Graduate,Salaried,802000,1593000,60,9.61,769,26.0,2,0.35,0,Personal,0
+APP0765,37,Female,Graduate,Salaried,1090000,2211000,84,12.09,692,5.1,0,0.16,0,Vehicle,0
+APP0766,56,Male,Post Graduate,Salaried,1570000,1235000,84,10.83,779,14.8,0,0.17,1,Vehicle,0
+APP0767,48,Male,Post Graduate,Salaried,1182000,521000,36,10.49,701,16.4,0,0.31,2,Personal,0
+APP0768,42,Female,High School,Salaried,454000,490000,60,12.36,638,4.7,1,0.14,1,Personal,0
+APP0769,27,Male,Graduate,Business Owner,1020000,807000,24,12.32,675,3.3,0,0.52,0,Business,0
+APP0770,37,Male,High School,Salaried,551000,1084000,48,14.91,487,6.1,1,0.46,2,Business,0
+APP0771,50,Male,Graduate,Salaried,1078000,295000,36,13.36,592,6.1,1,0.55,6,Business,1
+APP0772,65,Female,Post Graduate,Salaried,908000,1333000,48,11.4,803,26.9,0,0.51,0,Business,0
+APP0773,21,Female,Graduate,Business Owner,1290000,2596000,48,12.34,792,0.3,0,0.26,0,Business,0
+APP0774,53,Female,Graduate,Business Owner,1120000,2412000,36,10.07,812,21.8,3,0.29,1,Personal,0
+APP0775,59,Female,Graduate,Self-Employed,624000,936000,24,10.58,724,17.2,3,0.07,0,Personal,0
+APP0776,63,Male,High School,Self-Employed,496000,1042000,36,15.01,487,17.6,4,0.37,3,Personal,1
+APP0777,40,Male,Graduate,Self-Employed,734000,258000,48,13.1,637,7.1,1,0.54,0,Home,0
+APP0778,26,Male,Post Graduate,Self-Employed,1660000,1525000,48,10.38,805,2.0,0,0.2,1,Vehicle,0
+APP0779,33,Male,Graduate,Salaried,552000,120000,60,10.55,829,7.7,1,0.3,1,Business,0
+APP0780,59,Male,Graduate,Self-Employed,713000,1542000,24,11.94,822,19.8,1,0.26,0,Vehicle,0
+APP0781,60,Male,Post Graduate,Business Owner,1056000,2118000,60,10.67,697,22.6,0,0.34,0,Home,1
+APP0782,49,Male,High School,Salaried,578000,148000,60,13.23,591,10.2,0,0.45,2,Vehicle,1
+APP0783,26,Female,Graduate,Self-Employed,1129000,267000,12,13.53,680,1.5,1,0.15,1,Home,1
+APP0784,26,Female,High School,Salaried,795000,742000,36,11.82,684,0.9,1,0.17,0,Vehicle,1
+APP0785,42,Male,Doctorate,Salaried,1031000,739000,36,10.92,814,12.5,3,0.57,1,Vehicle,0
+APP0786,47,Male,Post Graduate,Salaried,954000,1807000,36,12.19,721,9.4,0,0.39,1,Vehicle,1
+APP0787,22,Female,Graduate,Self-Employed,663000,345000,24,13.35,676,0.8,2,0.33,1,Vehicle,0
+APP0788,51,Female,High School,Business Owner,992000,1767000,24,13.62,694,11.8,2,0.56,0,Home,0
+APP0789,45,Female,High School,Salaried,502000,657000,12,11.86,727,9.0,1,0.17,0,Vehicle,0
+APP0790,21,Male,Graduate,Salaried,612000,584000,24,9.94,744,0.5,0,0.41,0,Home,0
+APP0791,25,Female,Graduate,Salaried,630000,310000,36,12.83,607,2.3,3,0.38,1,Vehicle,0
+APP0792,41,Male,Post Graduate,Salaried,914000,2007000,60,15.23,601,14.3,2,0.43,1,Personal,1
+APP0793,53,Male,Post Graduate,Unemployed,176000,253000,48,9.28,806,6.1,1,0.04,0,Home,0
+APP0794,58,Male,Graduate,Salaried,551000,594000,36,14.57,555,16.9,2,0.33,1,Business,0
+APP0795,40,Male,Post Graduate,Salaried,1418000,1336000,48,7.99,833,2.8,0,0.39,1,Personal,0
+APP0796,34,Male,Doctorate,Salaried,2479000,4986000,48,13.6,521,8.2,2,0.35,1,Education,1
+APP0797,64,Male,Graduate,Unemployed,98000,181000,24,13.47,649,20.7,2,0.51,0,Vehicle,0
+APP0798,41,Female,Graduate,Salaried,386000,703000,24,10.92,774,7.5,1,0.48,0,Home,0
+APP0799,35,Male,Post Graduate,Self-Employed,651000,932000,24,11.7,700,8.7,0,0.18,1,Home,0
+APP0800,40,Male,High School,Salaried,434000,858000,48,13.04,587,7.5,0,0.4,2,Business,0
+APP0801,21,Male,Post Graduate,Salaried,1067000,852000,36,10.25,710,0.2,2,0.24,1,Personal,0
+APP0802,34,Male,High School,Self-Employed,646000,1038000,36,12.52,702,5.4,0,0.31,1,Personal,0
+APP0803,44,Male,Graduate,Salaried,637000,643000,48,12.37,660,3.4,2,0.44,1,Personal,1
+APP0804,62,Male,Post Graduate,Self-Employed,1095000,1533000,120,11.49,653,26.8,2,0.26,1,Business,0
+APP0805,54,Male,Graduate,Salaried,471000,1034000,36,12.01,701,18.3,1,0.42,1,Business,0
+APP0806,56,Female,Graduate,Self-Employed,643000,1395000,48,13.11,657,20.0,1,0.27,3,Home,0
+APP0807,45,Female,Graduate,Business Owner,1092000,1338000,48,8.84,900,15.6,0,0.23,0,Home,0
+APP0808,25,Male,High School,Self-Employed,302000,407000,60,12.5,673,2.9,0,0.38,1,Vehicle,0
+APP0809,38,Female,High School,Salaried,300000,598000,60,12.54,666,6.5,0,0.2,1,Education,1
+APP0810,65,Female,Graduate,Self-Employed,473000,1027000,60,12.5,629,7.7,3,0.28,0,Vehicle,0
+APP0811,22,Other,Graduate,Unemployed,196000,344000,24,10.03,834,0.6,1,0.45,0,Education,1
+APP0812,60,Female,Graduate,Salaried,654000,216000,36,14.48,574,26.4,1,0.34,2,Personal,1
+APP0813,51,Female,High School,Salaried,557000,471000,60,12.38,730,20.8,2,0.19,1,Home,0
+APP0814,33,Female,Post Graduate,Business Owner,751000,1497000,36,13.2,662,7.3,2,0.46,1,Personal,0
+APP0815,56,Female,Graduate,Salaried,357000,620000,120,13.27,579,8.0,0,0.25,3,Vehicle,0
+APP0816,58,Male,Graduate,Self-Employed,883000,1487000,36,13.8,614,8.2,2,0.19,0,Home,1
+APP0817,22,Male,Graduate,Business Owner,416000,639000,48,12.21,711,1.3,1,0.03,0,Business,0
+APP0818,25,Male,High School,Salaried,691000,712000,36,12.78,610,0.9,1,0.44,0,Vehicle,0
+APP0819,50,Male,Post Graduate,Self-Employed,481000,484000,36,11.21,728,13.5,0,0.2,1,Personal,0
+APP0820,65,Male,Graduate,Self-Employed,940000,1709000,60,10.34,847,14.7,1,0.18,0,Business,0
+APP0821,22,Male,High School,Salaried,330000,260000,24,13.15,697,0.6,1,0.41,0,Home,0
+APP0822,50,Female,Doctorate,Business Owner,2541000,3989000,48,12.28,585,15.2,0,0.4,2,Education,0
+APP0823,27,Female,Post Graduate,Salaried,2397000,3961000,48,14.69,608,4.7,2,0.27,0,Home,0
+APP0824,50,Female,Post Graduate,Salaried,352000,665000,84,13.26,678,17.0,1,0.44,1,Home,0
+APP0825,49,Male,Post Graduate,Business Owner,1824000,1532000,48,12.67,666,11.4,1,0.58,1,Medical,0
+APP0826,25,Male,Post Graduate,Salaried,414000,697000,120,11.97,689,1.8,2,0.52,1,Business,0
+APP0827,51,Female,Graduate,Business Owner,1277000,527000,84,12.06,717,20.0,3,0.53,0,Vehicle,0
+APP0828,61,Female,Graduate,Salaried,558000,266000,36,9.34,843,18.3,2,0.4,0,Personal,0
+APP0829,59,Other,Graduate,Salaried,628000,650000,84,11.74,708,15.5,0,0.25,0,Business,0
+APP0830,22,Female,Graduate,Salaried,436000,135000,120,12.42,593,1.0,0,0.29,2,Education,0
+APP0831,32,Female,High School,Self-Employed,690000,1446000,36,9.35,784,2.9,1,0.38,1,Home,0
+APP0832,31,Male,High School,Business Owner,497000,996000,48,12.5,791,1.5,1,0.18,1,Business,0
+APP0833,41,Male,Graduate,Business Owner,1699000,506000,36,11.68,725,12.9,0,0.21,0,Personal,0
+APP0834,27,Male,Post Graduate,Unemployed,169000,317000,48,12.69,665,3.3,1,0.16,2,Home,0
+APP0835,59,Female,Post Graduate,Self-Employed,557000,678000,24,11.2,752,7.8,0,0.33,0,Vehicle,0
+APP0836,55,Female,Graduate,Business Owner,1922000,3083000,60,11.7,676,9.8,1,0.34,0,Home,0
+APP0837,57,Male,High School,Salaried,440000,868000,36,14.3,530,25.7,2,0.28,3,Personal,1
+APP0838,29,Female,Graduate,Unemployed,292000,395000,48,11.43,743,4.3,0,0.4,1,Personal,0
+APP0839,21,Male,Graduate,Self-Employed,1073000,464000,12,10.97,758,0.5,1,0.2,2,Education,0
+APP0840,61,Male,Post Graduate,Business Owner,1081000,222000,60,9.6,820,5.9,0,0.22,1,Personal,0
+APP0841,34,Male,Post Graduate,Salaried,757000,904000,48,13.66,615,9.5,3,0.48,0,Vehicle,1
+APP0842,50,Male,Post Graduate,Salaried,814000,1708000,48,11.67,732,19.1,0,0.41,0,Personal,0
+APP0843,61,Female,Post Graduate,Self-Employed,1553000,2089000,36,11.95,724,17.6,1,0.23,1,Personal,0
+APP0844,22,Male,Doctorate,Salaried,1119000,1058000,24,12.59,698,0.6,0,0.33,0,Vehicle,0
+APP0845,21,Female,Graduate,Salaried,638000,167000,36,11.86,700,0.5,0,0.21,0,Education,0
+APP0846,21,Female,High School,Unemployed,105000,213000,84,11.95,694,0.6,0,0.28,0,Education,1
+APP0847,28,Male,High School,Salaried,442000,378000,24,13.1,706,4.6,1,0.35,0,Personal,0
+APP0848,23,Male,Graduate,Salaried,947000,1524000,48,10.54,747,2.1,1,0.4,0,Personal,0
+APP0849,57,Female,Graduate,Salaried,601000,955000,12,8.9,807,17.8,1,0.37,0,Education,0
+APP0850,48,Male,High School,Salaried,392000,277000,60,13.76,612,8.2,3,0.42,0,Medical,0
+APP0851,65,Female,Post Graduate,Self-Employed,747000,245000,36,11.78,681,17.9,2,0.23,2,Business,0
+APP0852,57,Male,High School,Unemployed,93000,90000,36,11.56,672,21.8,1,0.38,0,Home,0
+APP0853,64,Female,Post Graduate,Unemployed,119000,99000,36,13.49,648,11.4,1,0.4,0,Home,0
+APP0854,31,Female,Post Graduate,Self-Employed,700000,1120000,24,14.28,540,2.6,2,0.44,3,Vehicle,1
+APP0855,33,Male,Graduate,Self-Employed,1183000,2176000,36,11.23,684,7.0,2,0.27,2,Home,1
+APP0856,59,Male,Graduate,Salaried,558000,360000,36,12.95,740,14.3,1,0.44,1,Medical,0
+APP0857,32,Female,Graduate,Business Owner,1408000,1769000,48,11.06,677,7.1,1,0.17,0,Personal,0
+APP0858,23,Male,Graduate,Salaried,252000,71000,120,12.44,666,0.6,3,0.34,0,Home,0
+APP0859,51,Male,High School,Salaried,549000,345000,36,10.17,721,9.3,2,0.33,1,Vehicle,0
+APP0860,57,Male,Post Graduate,Unemployed,184000,317000,84,10.39,822,9.7,0,0.15,1,Education,0
+APP0861,64,Male,Graduate,Business Owner,929000,1660000,36,11.88,674,22.8,1,0.3,1,Vehicle,0
+APP0862,62,Female,Graduate,Salaried,639000,1120000,24,14.13,602,23.3,2,0.39,2,Education,1
+APP0863,26,Female,Post Graduate,Self-Employed,765000,371000,36,12.45,669,2.2,2,0.14,1,Business,0
+APP0864,55,Male,Graduate,Salaried,285000,371000,36,10.95,842,13.5,3,0.34,1,Personal,0
+APP0865,59,Female,Graduate,Salaried,829000,867000,36,13.16,600,7.0,0,0.09,0,Business,0
+APP0866,52,Male,Graduate,Salaried,653000,1425000,84,9.86,757,16.7,1,0.57,0,Home,0
+APP0867,57,Male,High School,Salaried,403000,608000,48,10.41,819,25.7,0,0.33,0,Vehicle,0
+APP0868,58,Female,Graduate,Salaried,428000,886000,48,14.57,515,21.5,0,0.32,2,Business,0
+APP0869,41,Other,Graduate,Salaried,359000,176000,48,10.32,715,4.9,2,0.39,2,Vehicle,0
+APP0870,22,Male,Graduate,Salaried,649000,715000,36,10.77,726,0.9,2,0.43,1,Vehicle,1
+APP0871,41,Male,High School,Salaried,792000,1381000,48,11.8,674,5.8,0,0.42,0,Medical,1
+APP0872,30,Male,Graduate,Unemployed,161000,151000,24,14.32,628,1.2,1,0.14,2,Personal,0
+APP0873,26,Female,Graduate,Self-Employed,431000,631000,24,13.57,633,1.2,1,0.49,0,Business,1
+APP0874,26,Male,Graduate,Business Owner,1190000,1456000,36,12.4,655,1.0,1,0.48,0,Vehicle,0
+APP0875,52,Male,High School,Salaried,442000,965000,24,12.9,665,7.0,1,0.32,0,Personal,0
+APP0876,43,Female,High School,Self-Employed,710000,389000,48,11.15,648,13.3,2,0.35,1,Vehicle,1
+APP0877,45,Male,Graduate,Business Owner,1360000,2816000,12,12.25,653,6.9,2,0.02,0,Vehicle,1
+APP0878,54,Male,High School,Salaried,158000,158000,24,10.61,814,18.8,0,0.15,0,Home,0
+APP0879,45,Male,Graduate,Salaried,726000,825000,84,13.65,599,16.7,1,0.39,4,Business,1
+APP0880,49,Male,Post Graduate,Salaried,549000,690000,120,13.95,541,12.9,2,0.5,0,Vehicle,1
+APP0881,24,Male,Graduate,Salaried,365000,267000,48,10.8,778,1.6,2,0.45,0,Personal,0
+APP0882,59,Female,Post Graduate,Salaried,730000,1553000,48,12.53,683,21.5,2,0.35,2,Business,0
+APP0883,41,Female,High School,Salaried,520000,1052000,60,13.06,629,3.3,4,0.65,0,Personal,0
+APP0884,27,Female,High School,Salaried,253000,543000,12,13.05,676,2.5,1,0.45,0,Home,0
+APP0885,57,Female,Post Graduate,Self-Employed,1164000,2554000,36,11.86,726,14.8,0,0.25,3,Personal,1
+APP0886,54,Male,Post Graduate,Salaried,1019000,1569000,24,12.98,662,20.4,1,0.59,0,Vehicle,0
+APP0887,23,Male,Post Graduate,Salaried,793000,875000,36,13.57,687,1.8,6,0.35,1,Education,0
+APP0888,29,Female,High School,Self-Employed,388000,738000,120,14.18,599,5.5,2,0.18,6,Home,1
+APP0889,21,Male,Post Graduate,Salaried,554000,137000,60,13.92,665,0.5,0,0.25,1,Personal,0
+APP0890,33,Female,Graduate,Salaried,859000,1605000,120,14.34,508,5.4,0,0.21,4,Personal,1
+APP0891,25,Female,Graduate,Salaried,354000,423000,60,9.45,785,3.0,1,0.29,1,Medical,1
+APP0892,52,Male,High School,Salaried,653000,1010000,48,12.14,683,20.0,2,0.46,0,Vehicle,0
+APP0893,44,Male,Doctorate,Salaried,906000,859000,60,11.43,726,9.3,4,0.42,3,Vehicle,0
+APP0894,65,Male,High School,Salaried,435000,408000,48,12.28,759,30.0,1,0.33,2,Home,0
+APP0895,54,Male,Post Graduate,Salaried,429000,113000,36,10.17,762,21.2,0,0.31,1,Medical,0
+APP0896,48,Male,Graduate,Unemployed,142000,149000,36,12.01,695,11.4,1,0.05,2,Business,0
+APP0897,43,Male,Post Graduate,Unemployed,242000,246000,48,12.04,719,3.3,1,0.15,0,Medical,0
+APP0898,23,Female,Post Graduate,Salaried,489000,318000,36,13.57,601,0.7,1,0.28,0,Vehicle,1
+APP0899,24,Female,Post Graduate,Salaried,929000,645000,48,13.59,585,2.3,1,0.23,3,Education,0
+APP0900,48,Female,High School,Salaried,464000,635000,24,12.6,679,4.7,1,0.3,0,Personal,0
+APP0901,21,Male,High School,Business Owner,659000,551000,48,13.87,633,0.4,0,0.47,1,Vehicle,1
+APP0902,22,Male,Graduate,Business Owner,1484000,2761000,36,11.55,812,0.9,0,0.29,0,Education,0
+APP0903,30,Male,Graduate,Salaried,278000,118000,36,11.59,729,6.3,0,0.14,0,Home,0
+APP0904,60,Male,High School,Salaried,508000,688000,48,12.46,626,24.3,4,0.32,1,Home,0
+APP0905,41,Female,High School,Salaried,793000,412000,24,13.51,681,11.7,0,0.51,1,Vehicle,0
+APP0906,52,Male,Graduate,Business Owner,1821000,2288000,120,10.91,715,11.0,0,0.48,0,Medical,0
+APP0907,39,Male,High School,Business Owner,946000,1235000,36,13.73,680,3.5,1,0.4,2,Personal,1
+APP0908,28,Female,High School,Salaried,405000,601000,36,12.93,710,4.0,1,0.14,3,Personal,1
+APP0909,37,Male,Post Graduate,Self-Employed,728000,768000,12,13.31,692,3.5,1,0.37,0,Education,0
+APP0910,25,Male,Graduate,Salaried,540000,658000,60,14.56,566,2.2,1,0.38,2,Personal,1
+APP0911,55,Male,Doctorate,Self-Employed,1355000,761000,48,13.01,520,24.1,2,0.36,1,Vehicle,1
+APP0912,29,Female,Doctorate,Unemployed,181000,204000,36,11.72,663,3.9,0,0.23,0,Home,0
+APP0913,37,Female,High School,Salaried,587000,555000,36,11.53,748,8.3,0,0.26,2,Vehicle,0
+APP0914,65,Male,Post Graduate,Salaried,1646000,2522000,60,11.65,687,22.8,0,0.22,1,Home,0
+APP0915,47,Female,Graduate,Self-Employed,685000,733000,84,10.02,815,16.2,0,0.16,2,Business,0
+APP0916,41,Female,Graduate,Salaried,375000,660000,36,12.57,695,7.6,0,0.46,2,Business,0
+APP0917,45,Female,High School,Business Owner,515000,542000,24,10.59,785,10.0,4,0.53,1,Education,0
+APP0918,56,Male,High School,Salaried,591000,397000,24,10.17,757,7.4,5,0.42,1,Personal,0
+APP0919,32,Male,High School,Business Owner,808000,604000,12,11.42,786,5.6,0,0.34,0,Vehicle,0
+APP0920,49,Female,Graduate,Salaried,816000,237000,60,13.96,597,8.0,0,0.35,4,Home,1
+APP0921,60,Male,Doctorate,Salaried,796000,1019000,120,11.76,703,16.2,1,0.61,0,Personal,1
+APP0922,46,Female,Graduate,Salaried,802000,1493000,120,10.9,811,14.6,0,0.4,1,Personal,0
+APP0923,41,Female,Post Graduate,Salaried,738000,1283000,60,11.84,716,2.3,0,0.4,0,Personal,0
+APP0924,27,Male,Doctorate,Salaried,743000,799000,24,12.69,725,3.1,2,0.36,0,Home,1
+APP0925,32,Female,Graduate,Self-Employed,608000,360000,120,14.0,575,2.4,0,0.25,4,Vehicle,1
+APP0926,63,Female,High School,Salaried,296000,570000,36,10.67,859,11.5,1,0.5,0,Home,0
+APP0927,45,Female,Post Graduate,Salaried,1565000,491000,36,11.85,610,3.0,2,0.44,0,Home,1
+APP0928,34,Male,Graduate,Salaried,580000,579000,60,15.13,516,2.8,1,0.23,3,Home,1
+APP0929,39,Female,High School,Salaried,564000,1079000,12,12.4,652,13.1,3,0.44,1,Home,1
+APP0930,47,Female,Graduate,Business Owner,912000,900000,60,14.6,481,18.9,3,0.49,1,Education,1
+APP0931,45,Female,Post Graduate,Unemployed,135000,59000,120,14.34,606,13.3,1,0.08,0,Vehicle,0
+APP0932,52,Female,Graduate,Salaried,553000,405000,60,9.71,900,14.9,0,0.19,0,Personal,0
+APP0933,32,Female,Graduate,Business Owner,1617000,2264000,60,11.14,650,6.8,2,0.4,2,Education,1
+APP0934,50,Male,High School,Self-Employed,438000,221000,36,14.79,552,19.1,5,0.22,0,Home,0
+APP0935,40,Male,High School,Unemployed,83000,125000,12,12.45,702,8.2,0,0.09,1,Medical,0
+APP0936,63,Male,High School,Salaried,475000,511000,60,12.62,620,5.2,0,0.27,1,Business,0
+APP0937,28,Male,Post Graduate,Salaried,929000,807000,48,10.42,761,4.2,1,0.39,0,Home,0
+APP0938,27,Male,Post Graduate,Salaried,1386000,945000,84,12.05,612,4.8,1,0.39,0,Vehicle,1
+APP0939,41,Female,High School,Business Owner,934000,1725000,24,11.44,719,5.4,0,0.49,1,Home,0
+APP0940,43,Male,Graduate,Self-Employed,877000,871000,36,13.31,603,8.7,0,0.31,2,Medical,1
+APP0941,52,Female,High School,Salaried,579000,971000,36,9.64,900,10.1,1,0.29,0,Vehicle,0
+APP0942,39,Female,High School,Salaried,301000,325000,60,11.74,732,6.4,1,0.17,0,Home,0
+APP0943,62,Male,Graduate,Self-Employed,500000,192000,60,11.2,697,22.4,1,0.28,1,Personal,0
+APP0944,42,Female,Graduate,Business Owner,753000,814000,120,12.7,666,7.2,1,0.41,0,Personal,1
+APP0945,26,Female,Graduate,Salaried,376000,457000,36,12.58,648,4.0,0,0.39,0,Education,1
+APP0946,26,Female,Graduate,Self-Employed,925000,1032000,48,12.44,621,3.4,1,0.36,2,Education,0
+APP0947,64,Male,Graduate,Salaried,664000,1217000,12,11.91,621,5.1,1,0.4,3,Vehicle,1
+APP0948,27,Female,High School,Salaried,463000,936000,36,10.43,838,4.1,0,0.45,0,Education,0
+APP0949,63,Female,High School,Salaried,182000,323000,36,12.9,664,24.2,1,0.34,1,Education,1
+APP0950,33,Female,Post Graduate,Business Owner,2936000,4009000,48,15.34,507,5.3,1,0.49,3,Business,1
+APP0951,25,Female,Post Graduate,Unemployed,143000,183000,36,13.14,585,2.0,1,0.24,2,Personal,0
+APP0952,34,Female,Post Graduate,Salaried,1599000,2381000,36,11.31,755,8.4,3,0.38,0,Personal,0
+APP0953,48,Male,Post Graduate,Salaried,470000,365000,48,11.44,664,9.9,2,0.3,0,Personal,0
+APP0954,40,Female,Graduate,Salaried,452000,824000,60,11.47,683,3.9,0,0.4,1,Vehicle,0
+APP0955,56,Male,Post Graduate,Salaried,361000,691000,36,10.86,778,10.4,3,0.27,0,Vehicle,0
+APP0956,48,Female,Graduate,Salaried,681000,500000,36,13.57,609,7.3,3,0.35,1,Personal,1
+APP0957,39,Male,High School,Salaried,306000,614000,60,9.99,747,9.7,1,0.11,0,Home,0
+APP0958,49,Male,High School,Salaried,309000,586000,60,12.05,640,6.0,0,0.37,0,Home,0
+APP0959,64,Female,High School,Salaried,278000,292000,60,10.85,757,21.4,1,0.48,1,Home,0
+APP0960,39,Male,High School,Salaried,591000,1193000,24,13.53,649,7.2,2,0.47,0,Personal,1
+APP0961,27,Female,Graduate,Business Owner,1411000,622000,48,11.96,659,4.2,2,0.46,1,Personal,0
+APP0962,39,Male,Post Graduate,Salaried,1471000,377000,84,11.2,761,7.4,1,0.43,2,Vehicle,0
+APP0963,58,Female,Post Graduate,Self-Employed,716000,641000,36,11.06,776,25.0,1,0.41,0,Vehicle,0
+APP0964,30,Female,Graduate,Unemployed,162000,216000,36,12.16,676,6.4,1,0.4,0,Business,1
+APP0965,63,Male,High School,Self-Employed,334000,302000,120,12.8,661,9.1,0,0.38,0,Home,0
+APP0966,47,Female,Post Graduate,Salaried,694000,1446000,24,8.91,834,13.8,1,0.25,0,Vehicle,0
+APP0967,48,Male,Graduate,Salaried,500000,355000,60,11.0,732,6.4,2,0.34,0,Personal,0
+APP0968,35,Female,High School,Self-Employed,618000,471000,84,13.64,667,8.9,0,0.31,0,Personal,0
+APP0969,62,Female,Graduate,Salaried,857000,1259000,24,14.06,643,20.2,2,0.32,1,Vehicle,0
+APP0970,22,Female,Graduate,Salaried,849000,176000,60,11.62,770,0.6,1,0.14,0,Education,0
+APP0971,34,Male,Graduate,Salaried,447000,740000,36,12.82,704,3.5,0,0.15,0,Medical,0
+APP0972,39,Male,Post Graduate,Salaried,1106000,1056000,84,10.9,676,6.8,1,0.36,0,Vehicle,1
+APP0973,42,Female,Post Graduate,Salaried,768000,1655000,84,11.02,715,12.8,0,0.41,0,Business,0
+APP0974,42,Female,Graduate,Self-Employed,625000,989000,84,11.48,718,12.7,2,0.36,0,Personal,0
+APP0975,27,Male,High School,Salaried,351000,107000,12,14.14,686,0.8,0,0.63,0,Business,0
+APP0976,31,Male,Post Graduate,Salaried,641000,247000,60,10.43,788,3.1,1,0.22,0,Home,0
+APP0977,25,Male,Graduate,Business Owner,2024000,762000,84,11.35,783,1.8,2,0.41,1,Vehicle,0
+APP0978,46,Female,High School,Salaried,501000,1055000,48,11.81,733,11.7,2,0.51,1,Education,0
+APP0979,36,Male,Graduate,Self-Employed,744000,1167000,48,10.63,810,3.0,0,0.43,0,Education,0
+APP0980,46,Male,Graduate,Salaried,547000,577000,12,11.98,700,7.8,0,0.38,0,Education,0
+APP0981,47,Female,Graduate,Salaried,1412000,849000,84,10.24,753,17.0,2,0.49,1,Vehicle,0
+APP0982,52,Male,High School,Unemployed,178000,347000,12,8.49,790,12.3,0,0.31,0,Vehicle,0
+APP0983,45,Female,Graduate,Salaried,466000,281000,36,11.87,777,13.7,2,0.56,1,Personal,1
+APP0984,50,Male,High School,Salaried,409000,660000,84,10.52,766,11.7,2,0.51,0,Education,0
+APP0985,47,Female,High School,Unemployed,104000,180000,84,9.79,748,10.2,1,0.23,1,Education,1
+APP0986,50,Female,High School,Self-Employed,553000,436000,120,9.76,873,14.2,0,0.34,1,Vehicle,0
+APP0987,48,Female,Post Graduate,Self-Employed,712000,861000,36,13.16,645,7.2,1,0.14,1,Personal,0
+APP0988,35,Male,Graduate,Salaried,700000,452000,24,13.14,665,3.7,2,0.54,3,Home,1
+APP0989,32,Female,Graduate,Salaried,997000,955000,48,13.28,674,8.3,1,0.36,1,Personal,1
+APP0990,56,Female,Graduate,Self-Employed,442000,942000,24,11.47,686,22.4,0,0.46,0,Education,0
+APP0991,36,Male,Post Graduate,Salaried,526000,834000,84,13.96,523,8.7,1,0.32,2,Personal,0
+APP0992,45,Male,Graduate,Salaried,507000,960000,48,10.19,804,4.6,1,0.11,1,Personal,0
+APP0993,29,Male,Post Graduate,Business Owner,1227000,1572000,36,14.34,588,1.1,2,0.68,6,Vehicle,1
+APP0994,40,Female,Graduate,Salaried,1208000,819000,12,10.42,693,4.1,2,0.38,0,Personal,0
+APP0995,44,Female,High School,Salaried,639000,1039000,36,14.02,572,15.9,2,0.24,8,Business,1
+APP0996,49,Female,Graduate,Salaried,835000,1003000,84,11.92,755,17.1,1,0.47,0,Home,1
+APP0997,44,Female,Graduate,Salaried,547000,303000,60,14.05,611,9.9,3,0.63,0,Education,0
+APP0998,37,Female,Post Graduate,Self-Employed,823000,843000,24,13.96,607,11.6,0,0.28,0,Medical,1
+APP0999,64,Male,Post Graduate,Business Owner,860000,1264000,24,12.61,716,8.3,0,0.29,2,Business,0
+APP1000,44,Male,Graduate,Salaried,789000,1318000,36,10.78,635,10.5,1,0.36,0,Personal,0
+APP1001,57,Female,Doctorate,Salaried,1140000,783000,24,14.39,627,7.8,3,0.26,0,Education,0
+APP1002,54,Male,Graduate,Salaried,941000,1837000,84,12.02,716,9.7,0,0.22,1,Education,0
+APP1003,46,Female,Graduate,Salaried,557000,534000,48,12.12,763,17.3,2,0.57,0,Business,0
+APP1004,60,Female,Graduate,Salaried,571000,424000,24,12.05,634,24.8,2,0.34,0,Personal,0
+APP1005,26,Male,High School,Unemployed,119000,70000,60,12.11,599,1.0,1,0.23,4,Education,1
+APP1006,62,Female,Post Graduate,Salaried,1066000,1928000,36,13.47,697,10.5,1,0.28,0,Home,0
+APP1007,59,Male,High School,Salaried,269000,244000,36,10.4,757,17.8,0,0.43,0,Personal,0
+APP1008,43,Female,Graduate,Unemployed,194000,226000,48,9.98,818,3.1,0,0.06,0,Personal,0
+APP1009,54,Female,Graduate,Salaried,596000,385000,12,13.92,600,14.6,2,0.39,0,Medical,0
+APP1010,44,Female,High School,Unemployed,78000,123000,36,13.1,668,10.8,1,0.63,0,Vehicle,0
+APP1011,33,Male,High School,Salaried,217000,382000,60,11.45,794,3.6,0,0.54,0,Education,0
+APP1012,56,Male,Graduate,Salaried,572000,503000,84,9.75,862,9.9,1,0.4,1,Education,0
+APP1013,32,Male,High School,Unemployed,187000,391000,36,12.76,593,2.8,2,0.52,2,Vehicle,1
+APP1014,35,Male,Graduate,Salaried,1078000,282000,48,13.96,607,9.9,4,0.58,0,Education,0
+APP1015,44,Male,Graduate,Salaried,679000,316000,24,12.1,732,8.0,0,0.28,0,Home,0
+APP1016,58,Male,High School,Salaried,894000,1232000,48,11.37,645,17.1,2,0.47,0,Education,0
+APP1017,38,Female,High School,Self-Employed,517000,829000,36,14.39,616,5.1,2,0.57,2,Education,0
+APP1018,43,Male,Post Graduate,Self-Employed,1270000,891000,48,9.88,709,12.0,2,0.21,0,Business,1
+APP1019,22,Male,Post Graduate,Salaried,666000,871000,24,11.0,822,0.3,0,0.37,0,Education,0
+APP1020,26,Female,High School,Self-Employed,438000,367000,84,13.77,548,0.9,4,0.46,2,Vehicle,1
+APP1021,23,Female,Post Graduate,Self-Employed,718000,939000,84,11.02,803,1.6,2,0.37,2,Personal,0
+APP1022,24,Female,Graduate,Salaried,292000,443000,36,13.37,636,2.1,1,0.33,0,Home,1
+APP1023,60,Female,Graduate,Salaried,941000,2019000,60,11.73,716,10.4,2,0.39,0,Vehicle,0
+APP1024,58,Female,Post Graduate,Salaried,623000,692000,24,10.62,816,11.9,3,0.43,0,Business,0
+APP1025,57,Female,Post Graduate,Salaried,589000,881000,60,11.33,740,25.0,1,0.46,1,Personal,1
+APP1026,23,Female,Post Graduate,Salaried,516000,700000,36,13.34,649,0.5,2,0.42,0,Vehicle,1
+APP1027,24,Female,Graduate,Salaried,559000,467000,24,13.21,736,0.8,2,0.34,1,Business,0
+APP1028,33,Male,Graduate,Salaried,1112000,785000,48,11.45,665,4.7,2,0.26,1,Medical,0
+APP1029,46,Male,Graduate,Salaried,1249000,2718000,36,8.92,735,7.0,1,0.27,0,Business,1
+APP1030,36,Male,High School,Self-Employed,294000,180000,48,12.06,674,7.8,1,0.36,0,Vehicle,0
+APP1031,42,Male,Graduate,Salaried,530000,944000,48,10.46,777,11.3,0,0.22,1,Personal,0
+APP1032,28,Female,High School,Unemployed,78000,50000,12,13.69,567,3.3,1,0.44,5,Vehicle,1
+APP1033,53,Male,Graduate,Unemployed,212000,383000,12,12.67,606,15.4,2,0.41,1,Education,0
+APP1034,35,Male,High School,Self-Employed,580000,331000,48,14.9,553,5.4,3,0.53,0,Vehicle,1
+APP1035,23,Male,High School,Unemployed,90000,192000,48,11.21,679,1.7,1,0.25,0,Business,0
+APP1036,54,Female,Graduate,Business Owner,1128000,1773000,12,14.39,565,4.3,0,0.2,0,Education,0
+APP1037,61,Male,Graduate,Salaried,508000,193000,36,13.46,637,11.8,1,0.47,0,Business,0
+APP1038,21,Female,Graduate,Self-Employed,1232000,1954000,48,14.05,580,0.5,2,0.38,2,Medical,1
+APP1039,40,Female,High School,Salaried,545000,767000,48,10.78,807,6.0,2,0.34,1,Education,0
+APP1040,58,Male,Graduate,Self-Employed,885000,774000,60,14.3,597,5.6,2,0.44,2,Home,0
+APP1041,52,Female,Graduate,Salaried,236000,170000,36,13.9,576,9.8,2,0.44,2,Medical,1
+APP1042,59,Male,Post Graduate,Salaried,762000,1248000,48,11.42,720,20.5,2,0.21,1,Home,0
+APP1043,39,Male,Graduate,Salaried,1244000,2093000,48,10.45,829,3.3,1,0.5,0,Personal,0
+APP1044,37,Female,Graduate,Unemployed,239000,204000,36,12.62,691,9.1,0,0.25,0,Home,0
+APP1045,52,Female,Graduate,Salaried,314000,613000,12,12.59,708,18.1,0,0.5,0,Education,0
+APP1046,27,Male,Doctorate,Salaried,860000,634000,12,9.19,796,3.4,1,0.17,1,Education,0
+APP1047,31,Female,Post Graduate,Salaried,512000,174000,60,10.83,768,2.7,0,0.34,1,Education,0
+APP1048,48,Male,Graduate,Salaried,1092000,1529000,24,10.7,730,16.3,2,0.34,0,Business,0
+APP1049,51,Female,Graduate,Business Owner,1198000,496000,48,13.21,649,7.1,0,0.06,0,Home,0
+APP1050,26,Female,High School,Business Owner,631000,475000,48,12.45,709,3.9,3,0.47,1,Home,0
+APP1051,43,Female,Post Graduate,Salaried,789000,958000,36,13.69,573,12.1,2,0.13,1,Personal,0
+APP1052,37,Female,Graduate,Salaried,241000,186000,60,12.32,640,2.3,0,0.26,1,Medical,1
+APP1053,43,Male,Graduate,Salaried,410000,258000,60,10.68,820,13.3,1,0.46,1,Vehicle,0
+APP1054,64,Female,Doctorate,Salaried,972000,1561000,12,10.06,822,17.8,0,0.24,0,Personal,0
+APP1055,24,Female,Post Graduate,Business Owner,1923000,2488000,60,13.07,705,1.5,3,0.28,0,Home,0
+APP1056,65,Female,High School,Self-Employed,266000,500000,48,16.1,521,15.9,3,0.49,2,Business,1
+APP1057,41,Male,High School,Salaried,394000,537000,36,14.44,591,9.7,1,0.3,1,Personal,1
+APP1058,55,Male,High School,Self-Employed,748000,873000,60,13.22,631,18.7,3,0.34,0,Business,0
+APP1059,40,Male,Graduate,Salaried,361000,261000,60,13.84,675,12.8,2,0.51,0,Personal,0
+APP1060,34,Male,High School,Self-Employed,569000,1015000,36,13.87,588,3.7,0,0.16,4,Medical,1
+APP1061,55,Male,Post Graduate,Salaried,798000,474000,120,12.02,673,16.7,2,0.3,1,Vehicle,1
+APP1062,51,Male,Post Graduate,Self-Employed,1658000,1135000,48,9.19,851,15.9,1,0.43,1,Personal,0
+APP1063,27,Female,Graduate,Salaried,554000,1043000,48,11.02,728,3.5,0,0.15,0,Personal,0
+APP1064,52,Male,Graduate,Unemployed,141000,237000,12,11.63,724,12.7,0,0.51,1,Education,1
+APP1065,54,Female,Graduate,Salaried,809000,1153000,36,13.62,617,11.4,0,0.27,2,Medical,0
+APP1066,38,Female,High School,Salaried,283000,79000,36,12.92,563,10.0,0,0.4,2,Personal,1
+APP1067,62,Female,Post Graduate,Salaried,722000,328000,48,13.26,592,11.8,1,0.43,2,Business,0
+APP1068,49,Male,High School,Salaried,384000,461000,48,14.35,555,6.5,0,0.28,4,Vehicle,1
+APP1069,36,Male,High School,Salaried,429000,726000,60,12.56,697,6.8,1,0.27,0,Business,1
+APP1070,21,Female,Graduate,Self-Employed,942000,1063000,36,11.75,715,0.3,1,0.32,0,Education,0
+APP1071,51,Female,High School,Self-Employed,637000,149000,60,13.52,612,3.7,0,0.39,0,Medical,1
+APP1072,30,Male,Graduate,Salaried,462000,263000,60,11.07,696,1.3,1,0.21,0,Home,0
+APP1073,55,Female,Post Graduate,Self-Employed,955000,1316000,60,9.22,837,18.1,0,0.16,1,Personal,0
+APP1074,44,Female,Post Graduate,Self-Employed,1533000,2435000,60,9.31,876,16.4,0,0.48,0,Home,0
+APP1075,42,Female,Graduate,Salaried,449000,120000,84,11.55,757,8.2,1,0.24,1,Personal,0
+APP1076,28,Male,Post Graduate,Salaried,821000,235000,24,12.65,669,1.5,1,0.37,1,Vehicle,0
+APP1077,53,Male,Graduate,Salaried,561000,405000,60,10.18,776,19.5,0,0.28,0,Business,0
+APP1078,28,Male,Post Graduate,Salaried,763000,280000,120,10.33,799,2.1,1,0.31,1,Business,0
+APP1079,39,Female,Graduate,Business Owner,622000,799000,48,15.68,535,13.3,0,0.47,4,Vehicle,1
+APP1080,58,Male,High School,Unemployed,184000,82000,24,10.52,828,16.6,1,0.32,1,Business,1
+APP1081,62,Male,Post Graduate,Self-Employed,694000,1039000,120,12.65,648,10.1,1,0.29,0,Personal,0
+APP1082,65,Female,Graduate,Salaried,859000,1507000,24,11.93,650,17.9,2,0.33,0,Vehicle,1
+APP1083,64,Male,High School,Self-Employed,422000,904000,36,11.79,676,13.3,0,0.24,1,Education,0
+APP1084,46,Male,High School,Self-Employed,422000,885000,24,11.72,719,14.8,2,0.28,1,Education,0
+APP1085,30,Male,Graduate,Salaried,917000,685000,36,13.89,589,1.6,1,0.27,3,Home,1
+APP1086,58,Male,Graduate,Business Owner,1558000,403000,36,12.66,686,23.3,1,0.53,0,Vehicle,0
+APP1087,57,Male,Graduate,Salaried,645000,554000,48,11.55,751,20.7,1,0.42,0,Vehicle,0
+APP1088,65,Male,Post Graduate,Salaried,1018000,1646000,84,11.19,734,27.8,1,0.29,1,Vehicle,0
+APP1089,50,Female,Graduate,Salaried,542000,173000,36,11.4,713,19.1,4,0.54,1,Medical,1
+APP1090,27,Female,Graduate,Salaried,598000,550000,48,14.28,657,1.7,1,0.14,0,Home,0
+APP1091,43,Male,Graduate,Business Owner,873000,695000,84,10.89,744,9.5,2,0.53,1,Business,0
+APP1092,41,Female,Post Graduate,Salaried,1070000,683000,60,9.9,771,12.8,3,0.55,0,Business,1
+APP1093,58,Male,High School,Salaried,353000,569000,36,9.46,782,12.4,1,0.6,0,Personal,1
+APP1094,38,Female,High School,Salaried,757000,1149000,12,11.64,705,2.5,3,0.51,0,Vehicle,0
+APP1095,35,Male,Graduate,Salaried,537000,683000,48,11.87,759,4.1,2,0.41,1,Home,0
+APP1096,24,Female,Graduate,Salaried,604000,1221000,60,10.92,741,1.0,3,0.54,0,Business,1
+APP1097,58,Male,Post Graduate,Salaried,1017000,413000,48,10.18,900,23.6,2,0.28,0,Personal,0
+APP1098,54,Female,Graduate,Self-Employed,706000,353000,24,10.48,801,12.9,1,0.28,0,Business,0
+APP1099,22,Male,Post Graduate,Salaried,703000,680000,60,13.25,676,1.0,1,0.32,0,Education,0
+APP1100,40,Female,Graduate,Business Owner,1089000,1646000,48,12.7,613,13.5,2,0.52,0,Personal,0
+APP1101,42,Male,High School,Salaried,615000,841000,48,11.9,667,6.1,1,0.23,0,Vehicle,0
+APP1102,42,Female,High School,Self-Employed,416000,145000,84,12.55,668,12.2,1,0.21,0,Personal,0
+APP1103,62,Male,High School,Business Owner,789000,1670000,60,11.92,731,4.8,1,0.36,1,Personal,0
+APP1104,27,Female,Graduate,Salaried,602000,488000,48,13.12,616,1.1,2,0.45,0,Home,0
+APP1105,34,Female,Graduate,Salaried,812000,745000,48,10.93,787,2.8,1,0.25,1,Home,0
+APP1106,29,Other,Graduate,Unemployed,145000,210000,48,14.59,559,2.6,2,0.44,3,Home,1
+APP1107,31,Male,Graduate,Salaried,1130000,2362000,48,13.26,540,3.8,2,0.52,2,Home,1
+APP1108,61,Male,Graduate,Self-Employed,663000,1011000,36,12.01,681,15.8,2,0.5,1,Education,0
+APP1109,63,Male,Graduate,Salaried,552000,1164000,60,12.74,623,10.6,1,0.37,0,Home,0
+APP1110,23,Male,Graduate,Salaried,565000,325000,48,13.6,568,0.4,2,0.35,5,Vehicle,1
+APP1111,49,Female,Graduate,Salaried,378000,543000,48,13.39,629,14.7,3,0.6,0,Personal,0
+APP1112,31,Other,Graduate,Business Owner,765000,1421000,24,12.69,627,1.3,0,0.3,0,Personal,0
+APP1113,29,Other,Graduate,Salaried,498000,607000,60,10.68,681,5.3,2,0.47,1,Education,0
+APP1114,34,Female,Graduate,Business Owner,1637000,1513000,48,12.59,648,9.2,0,0.53,0,Home,0
+APP1115,29,Female,Graduate,Self-Employed,692000,1501000,36,12.02,642,4.7,1,0.43,1,Personal,0
+APP1116,43,Female,Graduate,Salaried,506000,244000,36,12.49,694,10.5,1,0.21,2,Vehicle,0
+APP1117,65,Female,Graduate,Salaried,922000,942000,36,11.22,795,22.2,1,0.18,0,Education,0
+APP1118,47,Male,Graduate,Salaried,1033000,2011000,120,8.42,823,13.3,1,0.29,0,Vehicle,0
+APP1119,53,Female,High School,Salaried,698000,1397000,84,11.07,721,21.7,1,0.42,1,Medical,1
+APP1120,43,Female,Graduate,Self-Employed,519000,1121000,48,12.1,712,15.6,2,0.41,1,Vehicle,0
+APP1121,21,Male,Post Graduate,Salaried,656000,1292000,36,11.25,675,0.4,0,0.56,0,Medical,0
+APP1122,24,Male,High School,Salaried,849000,256000,60,12.25,725,1.9,1,0.38,1,Education,0
+APP1123,33,Female,Post Graduate,Self-Employed,990000,2039000,48,12.48,724,7.6,1,0.29,1,Home,0
+APP1124,31,Female,High School,Self-Employed,478000,505000,120,10.67,780,1.1,3,0.25,0,Home,1
+APP1125,58,Female,Graduate,Salaried,772000,1161000,12,14.02,524,15.8,3,0.53,0,Personal,0
+APP1126,58,Female,Graduate,Self-Employed,996000,985000,12,10.62,669,18.7,3,0.39,0,Vehicle,0
+APP1127,59,Male,High School,Salaried,368000,672000,48,12.11,736,20.7,1,0.15,1,Personal,0
+APP1128,49,Male,Post Graduate,Self-Employed,983000,1329000,24,13.74,691,9.3,1,0.33,0,Medical,0
+APP1129,46,Female,Graduate,Salaried,830000,1570000,48,14.77,611,7.2,1,0.21,0,Vehicle,1
+APP1130,50,Female,Post Graduate,Salaried,520000,306000,60,13.54,587,6.3,0,0.25,4,Home,0
+APP1131,39,Male,Graduate,Salaried,603000,344000,24,10.11,768,8.3,0,0.3,0,Personal,0
+APP1132,51,Female,Post Graduate,Self-Employed,616000,666000,36,13.42,650,20.2,0,0.19,0,Education,0
+APP1133,56,Male,Post Graduate,Self-Employed,645000,135000,60,14.12,552,23.0,2,0.3,3,Personal,1
+APP1134,55,Female,Graduate,Salaried,493000,782000,60,11.48,760,11.1,2,0.27,1,Business,0
+APP1135,48,Male,High School,Business Owner,975000,772000,48,11.79,730,7.1,1,0.24,1,Vehicle,1
+APP1136,23,Male,Graduate,Business Owner,983000,1292000,24,12.34,682,1.7,0,0.18,1,Education,0
+APP1137,53,Male,Graduate,Salaried,478000,163000,48,14.05,618,17.7,2,0.3,2,Personal,1
+APP1138,37,Male,Post Graduate,Self-Employed,927000,502000,36,13.14,681,6.9,1,0.22,0,Home,0
+APP1139,54,Female,Graduate,Salaried,402000,581000,60,10.1,799,11.3,1,0.4,1,Education,0
+APP1140,45,Male,Graduate,Unemployed,174000,141000,48,13.51,550,4.4,1,0.35,4,Vehicle,1
+APP1141,60,Male,High School,Salaried,669000,421000,36,11.86,576,22.8,1,0.47,2,Education,1
+APP1142,36,Female,Graduate,Salaried,584000,384000,60,12.53,646,7.5,0,0.53,1,Home,0
+APP1143,62,Female,Doctorate,Salaried,894000,563000,48,11.19,696,13.7,1,0.41,0,Personal,0
+APP1144,59,Male,High School,Salaried,513000,742000,24,12.91,662,25.4,2,0.41,1,Vehicle,0
+APP1145,35,Male,Post Graduate,Self-Employed,447000,239000,48,11.16,738,7.4,2,0.45,0,Vehicle,0
+APP1146,42,Male,Post Graduate,Salaried,941000,871000,84,10.56,784,14.5,2,0.42,0,Medical,0
+APP1147,44,Female,High School,Salaried,1333000,2101000,60,12.27,725,9.2,0,0.31,0,Home,0
+APP1148,55,Male,High School,Salaried,431000,529000,36,11.52,753,13.0,0,0.3,0,Home,0
+APP1149,52,Male,Graduate,Business Owner,1055000,1471000,60,11.56,723,21.2,2,0.24,0,Business,0
+APP1150,59,Male,Graduate,Business Owner,1427000,1001000,36,13.26,706,26.4,2,0.46,0,Home,0
+APP1151,37,Female,High School,Salaried,800000,1652000,48,14.54,570,11.5,3,0.39,7,Business,1
+APP1152,43,Male,Post Graduate,Salaried,1097000,1127000,48,12.88,619,13.6,0,0.47,0,Personal,0
+APP1153,40,Female,Graduate,Salaried,282000,218000,36,13.44,584,7.5,0,0.41,2,Vehicle,1
+APP1154,61,Male,Post Graduate,Business Owner,1742000,3499000,36,12.92,681,9.3,1,0.25,0,Education,1
+APP1155,34,Female,Post Graduate,Self-Employed,2239000,3382000,84,12.06,707,4.6,1,0.48,1,Vehicle,0
+APP1156,47,Male,Post Graduate,Self-Employed,1131000,1615000,36,12.9,580,17.9,1,0.02,1,Business,1
+APP1157,26,Male,Graduate,Business Owner,734000,1449000,60,13.11,674,1.9,3,0.62,1,Home,0
+APP1158,59,Male,Graduate,Salaried,662000,210000,48,14.0,634,21.6,1,0.17,0,Personal,0
+APP1159,38,Female,Graduate,Self-Employed,447000,838000,48,14.73,581,11.8,4,0.48,4,Business,1
+APP1160,36,Female,High School,Salaried,693000,1078000,24,14.22,634,10.9,2,0.41,1,Personal,1
+APP1161,47,Male,Graduate,Salaried,429000,395000,24,15.04,608,18.1,1,0.46,1,Home,1
+APP1162,43,Male,High School,Salaried,462000,329000,24,12.69,746,10.0,1,0.29,1,Personal,0
+APP1163,59,Female,Graduate,Salaried,444000,182000,48,12.6,678,15.4,2,0.1,0,Personal,0
+APP1164,44,Female,High School,Unemployed,93000,194000,120,10.89,763,16.6,2,0.32,1,Home,0
+APP1165,44,Male,Graduate,Salaried,1009000,488000,84,11.27,651,5.5,1,0.3,0,Business,0
+APP1166,25,Male,High School,Business Owner,855000,615000,12,12.77,649,1.1,1,0.08,1,Home,0
+APP1167,21,Female,Graduate,Self-Employed,576000,911000,36,10.29,842,0.7,1,0.34,1,Medical,0
+APP1168,38,Female,Post Graduate,Self-Employed,609000,987000,24,14.33,547,9.2,2,0.23,2,Home,0
+APP1169,65,Female,High School,Unemployed,60000,50000,120,8.78,814,19.0,1,0.41,1,Education,0
+APP1170,62,Female,Post Graduate,Salaried,503000,920000,36,10.03,816,7.5,3,0.36,1,Personal,0
+APP1171,49,Male,Post Graduate,Salaried,811000,990000,24,11.84,745,11.8,3,0.63,2,Home,0
+APP1172,49,Male,Graduate,Salaried,846000,1605000,48,11.52,677,19.3,1,0.3,0,Home,1
+APP1173,38,Male,Graduate,Salaried,493000,185000,48,10.68,797,8.3,3,0.44,2,Home,0
+APP1174,28,Male,Graduate,Business Owner,1906000,544000,24,13.1,650,2.7,2,0.33,1,Business,0
+APP1175,21,Male,High School,Salaried,350000,516000,48,14.18,614,0.4,2,0.17,1,Home,0
+APP1176,36,Male,Graduate,Salaried,552000,276000,24,14.08,653,10.1,2,0.34,0,Personal,0
+APP1177,35,Male,High School,Salaried,308000,385000,12,12.52,645,9.7,1,0.42,2,Personal,1
+APP1178,29,Female,Post Graduate,Salaried,1103000,252000,24,13.45,613,3.1,0,0.37,1,Vehicle,0
+APP1179,32,Male,Post Graduate,Self-Employed,1896000,3337000,36,11.05,775,5.6,2,0.32,0,Vehicle,0
+APP1180,22,Male,Post Graduate,Salaried,421000,842000,120,14.12,593,0.5,4,0.25,5,Education,1
+APP1181,48,Female,Graduate,Business Owner,974000,1829000,48,12.79,676,10.4,3,0.47,0,Medical,1
+APP1182,62,Female,Graduate,Self-Employed,1090000,2307000,60,15.2,563,9.7,2,0.41,2,Personal,1
+APP1183,52,Female,Doctorate,Business Owner,1061000,2129000,36,10.12,701,13.4,1,0.43,0,Medical,0
+APP1184,41,Female,High School,Salaried,549000,597000,60,14.27,571,9.4,4,0.39,1,Personal,1
+APP1185,39,Female,High School,Self-Employed,805000,802000,120,14.05,589,5.8,1,0.13,1,Business,0
+APP1186,34,Male,Graduate,Salaried,617000,1229000,36,12.28,669,3.7,2,0.42,2,Medical,1
+APP1187,27,Male,Graduate,Salaried,727000,1493000,120,8.97,781,1.3,0,0.3,1,Vehicle,0
+APP1188,47,Female,Graduate,Self-Employed,1296000,2781000,48,11.58,725,5.0,1,0.5,0,Business,1
+APP1189,46,Male,High School,Self-Employed,1038000,1803000,60,10.8,742,13.7,1,0.33,0,Home,0
+APP1190,21,Male,Graduate,Salaried,587000,355000,36,14.14,647,0.2,4,0.41,1,Home,1
+APP1191,39,Male,Graduate,Business Owner,913000,1908000,48,13.19,641,3.2,3,0.44,0,Vehicle,0
+APP1192,33,Male,High School,Salaried,326000,683000,48,10.34,768,9.1,0,0.23,1,Vehicle,0
+APP1193,28,Male,High School,Self-Employed,739000,1132000,120,11.42,629,2.0,2,0.28,1,Vehicle,0
+APP1194,52,Male,Graduate,Unemployed,93000,178000,84,11.32,777,20.4,1,0.32,1,Vehicle,0
+APP1195,44,Female,Post Graduate,Salaried,714000,944000,36,11.06,800,11.2,1,0.22,0,Vehicle,0
+APP1196,49,Female,Graduate,Business Owner,1140000,2381000,84,12.89,629,15.3,1,0.3,1,Business,1
+APP1197,53,Male,Graduate,Self-Employed,587000,228000,84,13.38,640,14.4,1,0.56,1,Education,0
+APP1198,65,Female,Post Graduate,Business Owner,1577000,3040000,48,12.4,655,9.4,0,0.43,0,Education,0
+APP1199,57,Male,Graduate,Self-Employed,1718000,534000,24,14.59,584,22.5,1,0.37,3,Personal,1
+APP1200,48,Female,Post Graduate,Self-Employed,872000,766000,24,13.48,654,16.7,2,0.55,1,Personal,1
+APP1201,60,Female,Graduate,Salaried,515000,242000,12,8.95,816,12.4,0,0.2,0,Business,0
+APP1202,42,Male,Graduate,Self-Employed,999000,1157000,24,12.86,568,12.3,6,0.78,3,Education,1
+APP1203,65,Female,High School,Salaried,489000,325000,120,12.1,802,19.2,3,0.33,0,Home,0
+APP1204,55,Female,High School,Unemployed,186000,391000,24,13.17,672,22.6,1,0.57,1,Medical,0
+APP1205,50,Female,Doctorate,Salaried,1017000,1341000,60,8.37,875,17.5,2,0.6,1,Home,0
+APP1206,61,Female,Post Graduate,Salaried,715000,1427000,48,11.67,638,5.1,0,0.09,1,Personal,0
+APP1207,44,Female,Post Graduate,Business Owner,766000,579000,48,12.35,688,15.1,1,0.51,1,Education,0
+APP1208,53,Male,Post Graduate,Salaried,442000,111000,24,12.11,632,22.5,1,0.3,0,Vehicle,0
+APP1209,33,Female,High School,Salaried,237000,415000,48,13.01,616,7.1,3,0.32,1,Business,1
+APP1210,64,Female,Post Graduate,Self-Employed,1039000,1667000,48,10.39,805,7.6,1,0.39,0,Vehicle,0
+APP1211,49,Female,Graduate,Salaried,372000,480000,48,11.16,751,16.9,0,0.18,1,Home,0
+APP1212,56,Male,Post Graduate,Salaried,1210000,2215000,24,11.66,783,17.6,2,0.42,1,Personal,0
+APP1213,41,Female,High School,Salaried,455000,855000,60,15.42,570,6.4,2,0.25,2,Home,0
+APP1214,60,Male,Graduate,Salaried,551000,758000,12,10.6,768,25.2,1,0.35,1,Education,0
+APP1215,24,Female,Post Graduate,Salaried,581000,1239000,48,12.93,578,1.8,4,0.58,1,Vehicle,1
+APP1216,26,Male,Post Graduate,Salaried,970000,1590000,36,14.46,557,3.7,3,0.44,0,Vehicle,1
+APP1217,43,Female,Graduate,Salaried,453000,704000,36,13.07,716,11.5,1,0.29,0,Personal,0
+APP1218,53,Female,Graduate,Salaried,425000,392000,60,11.74,696,9.0,3,0.45,0,Vehicle,0
+APP1219,57,Male,Graduate,Salaried,909000,186000,24,12.43,717,25.3,1,0.16,0,Vehicle,0
+APP1220,40,Male,Doctorate,Self-Employed,1268000,865000,84,10.4,762,8.9,0,0.2,0,Education,0
+APP1221,50,Male,Graduate,Self-Employed,645000,1114000,84,10.83,779,12.3,0,0.25,0,Business,0
+APP1222,45,Female,Graduate,Salaried,751000,1216000,36,9.2,825,8.6,0,0.39,0,Home,0
+APP1223,64,Female,Graduate,Salaried,602000,519000,36,13.54,598,8.0,0,0.35,0,Medical,0
+APP1224,50,Male,Graduate,Business Owner,1258000,1826000,24,10.11,820,15.4,2,0.42,0,Vehicle,0
+APP1225,39,Male,Graduate,Self-Employed,526000,311000,84,10.6,826,6.8,4,0.42,0,Vehicle,0
+APP1226,64,Male,Graduate,Salaried,1238000,900000,48,13.75,678,29.1,2,0.27,0,Personal,0
+APP1227,25,Male,Post Graduate,Salaried,637000,1334000,12,14.03,544,3.4,1,0.51,1,Vehicle,1
+APP1228,65,Female,Post Graduate,Salaried,1345000,1380000,48,11.98,595,25.2,1,0.25,2,Personal,1
+APP1229,27,Female,Post Graduate,Business Owner,1339000,924000,24,12.66,645,1.7,1,0.38,1,Business,1
+APP1230,33,Male,Graduate,Unemployed,199000,234000,48,9.94,853,6.9,2,0.35,0,Business,0
+APP1231,57,Female,Graduate,Unemployed,194000,189000,48,12.34,688,4.2,1,0.4,3,Vehicle,1
+APP1232,54,Male,Post Graduate,Salaried,1165000,1933000,24,12.56,654,20.3,1,0.26,1,Personal,0
+APP1233,64,Female,Post Graduate,Salaried,581000,1234000,60,13.9,653,17.4,0,0.43,0,Vehicle,0
+APP1234,54,Male,Graduate,Salaried,874000,1209000,36,13.53,605,22.5,0,0.47,1,Personal,1
+APP1235,49,Female,Graduate,Salaried,1145000,1583000,48,10.9,768,9.5,1,0.45,0,Home,0
+APP1236,36,Female,Post Graduate,Salaried,712000,662000,48,11.81,671,4.1,2,0.38,0,Home,0
+APP1237,21,Male,Graduate,Self-Employed,709000,942000,120,8.19,861,0.7,1,0.28,1,Vehicle,0
+APP1238,26,Female,Post Graduate,Salaried,649000,544000,48,11.81,730,2.5,2,0.7,1,Education,0
+APP1239,34,Female,High School,Unemployed,100000,50000,84,11.37,755,8.7,2,0.24,1,Personal,1
+APP1240,22,Male,Graduate,Salaried,1092000,2110000,36,11.59,671,1.3,0,0.41,1,Home,1
+APP1241,43,Male,Graduate,Salaried,422000,447000,84,13.69,585,9.5,3,0.43,2,Home,1
+APP1242,55,Female,High School,Business Owner,593000,702000,36,13.04,623,13.1,1,0.32,0,Personal,0
+APP1243,64,Male,Post Graduate,Self-Employed,1599000,587000,60,13.18,588,19.0,1,0.35,4,Vehicle,1
+APP1244,43,Male,Graduate,Salaried,747000,1400000,24,10.35,768,14.0,2,0.3,3,Medical,0
+APP1245,60,Male,High School,Self-Employed,1103000,596000,120,12.47,690,27.2,0,0.35,2,Education,0
+APP1246,65,Female,Post Graduate,Salaried,666000,680000,120,10.63,779,13.4,1,0.37,0,Home,1
+APP1247,59,Male,Post Graduate,Salaried,815000,1533000,36,11.24,719,21.2,1,0.65,1,Home,0
+APP1248,41,Male,Post Graduate,Salaried,619000,691000,48,11.85,664,5.7,1,0.46,1,Vehicle,1
+APP1249,35,Female,Graduate,Salaried,631000,1301000,48,13.53,591,7.0,1,0.39,2,Home,1
+APP1250,65,Female,Post Graduate,Self-Employed,489000,303000,36,12.15,739,26.2,1,0.4,0,Personal,0
+APP1251,31,Female,Graduate,Salaried,763000,1244000,48,12.71,664,7.0,2,0.58,1,Home,1
+APP1252,39,Male,Graduate,Self-Employed,784000,1690000,60,10.93,759,7.0,2,0.24,1,Medical,1
+APP1253,24,Female,High School,Business Owner,809000,1051000,48,13.88,591,1.3,5,0.43,3,Vehicle,1
+APP1254,56,Female,Graduate,Salaried,523000,829000,24,12.54,737,9.1,2,0.13,0,Personal,0
+APP1255,50,Male,Post Graduate,Salaried,570000,562000,84,10.59,820,5.4,2,0.43,0,Home,0
+APP1256,24,Female,Graduate,Salaried,774000,1318000,24,12.34,691,1.3,3,0.49,1,Home,0
+APP1257,30,Male,Graduate,Business Owner,730000,1473000,48,11.79,748,6.2,2,0.24,0,Vehicle,0
+APP1258,45,Male,Post Graduate,Self-Employed,1089000,1749000,24,11.26,741,8.8,1,0.5,1,Vehicle,0
+APP1259,45,Male,Graduate,Self-Employed,1447000,2998000,24,9.99,844,7.3,2,0.27,0,Personal,0
+APP1260,57,Female,Graduate,Salaried,1009000,1390000,12,11.16,730,20.1,2,0.32,0,Education,0
+APP1261,32,Male,Post Graduate,Salaried,461000,624000,36,10.44,721,2.8,4,0.43,1,Education,0
+APP1262,62,Male,Post Graduate,Salaried,646000,523000,48,12.51,684,10.7,2,0.55,1,Medical,1
+APP1263,41,Male,Doctorate,Salaried,1113000,1802000,48,13.28,633,13.9,1,0.23,1,Education,1
+APP1264,58,Male,Doctorate,Self-Employed,1093000,2147000,48,13.72,570,5.7,3,0.42,2,Home,1
+APP1265,31,Male,Post Graduate,Salaried,478000,713000,48,11.3,802,3.8,0,0.39,1,Vehicle,0
+APP1266,22,Female,Post Graduate,Salaried,893000,595000,24,13.09,589,0.9,2,0.43,4,Education,1
+APP1267,23,Male,Graduate,Salaried,598000,770000,12,9.89,746,0.7,1,0.4,0,Vehicle,0
+APP1268,37,Male,High School,Salaried,879000,1505000,48,11.22,715,4.6,2,0.45,1,Personal,0
+APP1269,63,Female,Graduate,Self-Employed,641000,1332000,48,9.81,764,10.0,2,0.29,0,Personal,0
+APP1270,23,Male,Post Graduate,Salaried,1174000,602000,48,13.31,631,0.9,2,0.56,1,Personal,1
+APP1271,37,Female,Graduate,Unemployed,96000,50000,36,12.48,628,10.9,1,0.32,0,Home,0
+APP1272,25,Male,Post Graduate,Business Owner,998000,1024000,60,12.67,708,1.8,2,0.33,0,Home,0
+APP1273,62,Male,High School,Business Owner,1062000,479000,12,13.63,643,14.7,5,0.61,0,Personal,0
+APP1274,51,Male,Graduate,Self-Employed,1023000,2211000,48,13.03,582,10.3,2,0.28,4,Education,1
+APP1275,55,Male,Graduate,Self-Employed,501000,525000,24,9.21,843,23.7,5,0.49,1,Education,0
+APP1276,53,Male,Graduate,Self-Employed,706000,895000,48,13.73,613,5.6,2,0.27,0,Vehicle,1
+APP1277,50,Female,High School,Salaried,277000,181000,36,13.86,628,18.7,0,0.6,1,Personal,1
+APP1278,55,Male,High School,Salaried,422000,463000,60,10.9,666,10.4,2,0.64,1,Home,0
+APP1279,21,Female,Post Graduate,Self-Employed,1220000,2647000,12,10.77,797,0.7,0,0.29,0,Business,1
+APP1280,59,Female,Graduate,Salaried,515000,606000,48,13.08,511,11.3,1,0.39,2,Education,1
+APP1281,54,Male,High School,Salaried,412000,90000,24,10.48,772,5.1,3,0.39,2,Medical,0
+APP1282,54,Male,High School,Business Owner,556000,381000,60,14.06,621,14.0,1,0.29,0,Education,0
+APP1283,38,Male,Graduate,Salaried,478000,1031000,24,14.62,686,4.3,4,0.43,0,Personal,0
+APP1284,57,Male,High School,Salaried,833000,1814000,12,12.57,649,20.4,1,0.33,0,Vehicle,0
+APP1285,38,Male,Post Graduate,Self-Employed,934000,580000,60,8.69,854,8.9,2,0.18,1,Business,0
+APP1286,23,Female,Post Graduate,Salaried,549000,785000,12,11.68,694,1.5,1,0.36,0,Vehicle,1
+APP1287,61,Female,High School,Business Owner,739000,261000,24,12.95,640,8.9,0,0.29,0,Business,0
+APP1288,31,Male,Graduate,Salaried,343000,465000,60,12.14,655,5.8,2,0.4,0,Personal,0
+APP1289,25,Female,High School,Business Owner,578000,261000,60,11.4,691,1.4,1,0.32,0,Personal,0
+APP1290,48,Female,Graduate,Business Owner,1771000,3254000,84,11.22,729,19.6,0,0.26,3,Education,0
+APP1291,31,Male,Post Graduate,Salaried,742000,1543000,36,11.81,734,5.9,0,0.4,0,Education,0
+APP1292,59,Female,Graduate,Salaried,1163000,635000,48,11.82,703,17.7,1,0.39,1,Medical,0
+APP1293,40,Female,Post Graduate,Salaried,754000,849000,60,13.09,580,12.4,1,0.5,2,Medical,1
+APP1294,21,Female,High School,Salaried,444000,179000,24,12.15,654,0.5,1,0.39,1,Home,0
+APP1295,63,Female,Graduate,Salaried,751000,660000,60,10.71,764,18.6,0,0.28,3,Education,0
+APP1296,44,Male,Graduate,Unemployed,60000,50000,24,12.34,624,5.8,2,0.43,0,Home,1
+APP1297,32,Male,Graduate,Salaried,645000,470000,84,10.73,747,6.1,1,0.09,1,Education,0
+APP1298,51,Female,Doctorate,Business Owner,1730000,3772000,48,12.68,689,10.1,2,0.61,0,Education,0
+APP1299,44,Male,High School,Salaried,757000,219000,48,12.31,667,3.0,1,0.36,1,Business,0
+APP1300,22,Male,Post Graduate,Unemployed,273000,524000,48,9.56,769,1.2,3,0.65,0,Home,1
+APP1301,55,Female,Post Graduate,Salaried,525000,186000,24,15.1,548,4.6,0,0.2,4,Business,1
+APP1302,39,Male,Graduate,Salaried,927000,1166000,36,13.65,612,9.6,4,0.29,0,Medical,0
+APP1303,52,Male,Graduate,Self-Employed,639000,706000,60,9.96,762,6.2,5,0.49,0,Education,0
+APP1304,61,Female,Graduate,Salaried,437000,902000,48,9.5,847,14.7,2,0.4,0,Vehicle,0
+APP1305,48,Male,Graduate,Business Owner,1179000,705000,48,8.41,897,17.2,1,0.37,2,Vehicle,0
+APP1306,51,Male,Post Graduate,Salaried,727000,407000,24,12.66,692,4.9,1,0.35,0,Education,0
+APP1307,32,Female,Graduate,Salaried,1028000,1745000,60,11.52,712,6.0,3,0.31,1,Personal,0
+APP1308,31,Male,Post Graduate,Salaried,879000,1452000,36,11.07,758,5.1,1,0.15,0,Personal,0
+APP1309,39,Male,Graduate,Self-Employed,752000,1202000,24,10.27,805,11.8,1,0.36,0,Home,1
+APP1310,59,Male,Graduate,Salaried,822000,207000,84,10.67,710,7.9,2,0.21,0,Business,0
+APP1311,44,Female,Post Graduate,Salaried,1143000,823000,48,12.21,761,13.9,3,0.22,0,Education,0
+APP1312,36,Male,Graduate,Salaried,789000,1483000,48,12.11,728,5.9,1,0.28,0,Home,0
+APP1313,56,Male,Post Graduate,Salaried,1282000,1797000,120,11.01,726,12.9,3,0.44,1,Medical,1
+APP1314,59,Male,High School,Salaried,557000,782000,36,13.37,619,12.4,1,0.57,0,Home,1
+APP1315,61,Male,Doctorate,Unemployed,255000,202000,84,13.23,670,13.6,1,0.45,0,Home,1
+APP1316,34,Female,Post Graduate,Salaried,1204000,867000,60,12.99,637,5.8,2,0.53,0,Education,0
+APP1317,52,Male,Post Graduate,Self-Employed,882000,1846000,48,14.82,595,5.3,0,0.38,5,Education,1
+APP1318,47,Female,Graduate,Salaried,607000,1005000,36,16.42,561,9.6,0,0.34,3,Vehicle,1
+APP1319,41,Male,Post Graduate,Salaried,1425000,647000,12,12.77,642,10.3,3,0.69,0,Personal,0
+APP1320,38,Male,Graduate,Salaried,1058000,2196000,36,12.25,652,7.2,3,0.23,0,Vehicle,0
+APP1321,26,Female,Post Graduate,Salaried,778000,1062000,12,11.57,676,1.2,3,0.34,0,Personal,0
+APP1322,33,Male,High School,Salaried,384000,333000,12,9.84,726,4.1,2,0.32,2,Home,0
+APP1323,45,Male,Graduate,Salaried,1001000,995000,48,12.74,717,9.1,0,0.41,0,Vehicle,0
+APP1324,60,Female,Graduate,Salaried,794000,1311000,60,11.96,684,20.1,1,0.21,0,Medical,0
+APP1325,59,Male,Graduate,Unemployed,168000,160000,24,13.57,642,25.0,0,0.39,0,Personal,0
+APP1326,29,Female,Graduate,Salaried,536000,728000,60,11.95,761,3.9,1,0.4,1,Personal,0
+APP1327,51,Female,Post Graduate,Salaried,876000,1420000,84,11.14,700,15.7,0,0.4,2,Education,0
+APP1328,24,Male,Graduate,Salaried,595000,351000,60,11.95,654,0.6,0,0.4,3,Vehicle,0
+APP1329,51,Male,Post Graduate,Salaried,618000,1291000,60,13.41,699,20.9,0,0.48,1,Business,0
+APP1330,36,Male,High School,Self-Employed,549000,501000,60,13.19,617,4.6,2,0.35,0,Business,1
+APP1331,41,Male,Post Graduate,Salaried,856000,889000,24,12.3,645,6.6,1,0.39,1,Personal,1
+APP1332,53,Male,Post Graduate,Self-Employed,798000,1274000,36,12.02,643,7.7,1,0.24,0,Vehicle,0
+APP1333,40,Female,Graduate,Salaried,823000,1167000,84,12.47,661,3.0,1,0.21,0,Home,1
+APP1334,57,Male,Post Graduate,Salaried,1225000,1323000,48,12.26,763,21.2,1,0.54,0,Home,0
+APP1335,45,Female,Post Graduate,Unemployed,274000,411000,60,12.43,708,6.1,3,0.29,0,Home,0
+APP1336,65,Male,Post Graduate,Salaried,708000,1420000,120,10.35,820,12.1,2,0.44,0,Vehicle,0
+APP1337,49,Male,Graduate,Business Owner,1433000,2580000,36,12.01,784,6.1,2,0.42,0,Home,0
+APP1338,34,Male,Graduate,Salaried,617000,1141000,36,10.72,860,9.6,1,0.47,1,Vehicle,0
+APP1339,55,Female,Post Graduate,Unemployed,127000,91000,48,11.47,753,19.9,1,0.13,1,Personal,0
+APP1340,39,Male,Graduate,Salaried,759000,788000,12,13.46,751,12.5,0,0.41,2,Personal,0
+APP1341,45,Male,Post Graduate,Salaried,821000,1074000,48,12.54,651,15.4,2,0.35,0,Personal,0
+APP1342,27,Female,Graduate,Business Owner,2727000,786000,60,12.61,718,4.5,6,0.41,1,Education,0
+APP1343,26,Female,Post Graduate,Salaried,1299000,2260000,48,12.75,629,2.3,1,0.3,1,Vehicle,1
+APP1344,46,Male,High School,Salaried,577000,489000,36,14.66,571,5.3,0,0.42,4,Medical,1
+APP1345,29,Female,High School,Unemployed,123000,94000,60,10.08,815,2.7,1,0.42,0,Vehicle,0
+APP1346,65,Male,Doctorate,Self-Employed,1186000,852000,24,14.24,575,12.4,3,0.37,2,Business,0
+APP1347,59,Male,Post Graduate,Self-Employed,640000,491000,84,13.37,736,20.7,2,0.22,0,Vehicle,0
+APP1348,52,Male,Post Graduate,Self-Employed,495000,434000,24,13.96,620,3.7,0,0.17,1,Personal,1
+APP1349,54,Male,Post Graduate,Business Owner,1054000,1486000,84,11.23,777,6.3,2,0.45,3,Vehicle,1
+APP1350,47,Male,Graduate,Business Owner,1082000,1479000,48,9.79,806,13.8,1,0.18,0,Personal,0
+APP1351,23,Female,Graduate,Self-Employed,335000,238000,36,11.85,720,0.5,2,0.35,1,Business,1
+APP1352,38,Male,High School,Salaried,372000,228000,48,9.95,783,2.3,2,0.68,0,Vehicle,0
+APP1353,43,Female,Graduate,Salaried,550000,1019000,24,12.9,687,3.8,1,0.39,0,Personal,0
+APP1354,62,Female,High School,Self-Employed,487000,188000,36,9.69,900,21.6,0,0.39,0,Business,0
+APP1355,30,Female,Post Graduate,Business Owner,1134000,1390000,60,11.14,748,1.8,1,0.2,1,Personal,0
+APP1356,43,Female,High School,Salaried,399000,495000,60,14.67,611,4.3,1,0.18,0,Home,0
+APP1357,36,Female,High School,Salaried,823000,1110000,24,13.58,676,3.8,3,0.49,0,Home,0
+APP1358,27,Other,High School,Salaried,567000,1118000,48,12.51,674,3.9,1,0.3,0,Business,1
+APP1359,25,Male,High School,Salaried,370000,536000,84,13.02,662,1.1,1,0.47,0,Personal,1
+APP1360,37,Male,High School,Business Owner,805000,1729000,60,13.75,552,2.1,0,0.32,3,Medical,1
+APP1361,24,Male,Graduate,Salaried,594000,1154000,36,11.39,726,2.6,0,0.73,0,Education,0
+APP1362,24,Female,Graduate,Self-Employed,535000,337000,12,13.13,567,2.5,1,0.27,4,Personal,1
+APP1363,36,Male,Graduate,Business Owner,840000,573000,84,15.29,455,3.4,3,0.44,4,Business,1
+APP1364,30,Female,Post Graduate,Unemployed,278000,247000,36,12.46,664,2.6,0,0.2,0,Business,1
+APP1365,45,Male,Graduate,Salaried,518000,509000,36,11.93,616,5.3,2,0.5,3,Personal,0
+APP1366,21,Female,Graduate,Unemployed,102000,133000,60,13.83,609,0.5,1,0.39,0,Home,1
+APP1367,34,Male,Graduate,Self-Employed,690000,459000,36,16.99,422,3.5,1,0.23,1,Personal,1
+APP1368,41,Male,High School,Business Owner,860000,554000,60,12.98,634,13.8,0,0.27,0,Personal,0
+APP1369,64,Male,Graduate,Salaried,301000,290000,12,9.98,691,26.2,2,0.54,0,Education,0
+APP1370,49,Male,Doctorate,Salaried,946000,1461000,60,12.88,628,13.1,3,0.55,0,Education,1
+APP1371,60,Male,Graduate,Self-Employed,948000,1494000,120,10.59,720,4.2,1,0.17,1,Business,0
+APP1372,36,Male,Graduate,Salaried,703000,1513000,120,9.83,812,10.1,1,0.29,0,Home,0
+APP1373,41,Male,Graduate,Salaried,1309000,792000,84,12.58,739,11.3,1,0.56,0,Vehicle,1
+APP1374,39,Male,Post Graduate,Self-Employed,1410000,1390000,84,8.82,782,10.9,1,0.32,0,Personal,1
+APP1375,60,Male,Graduate,Self-Employed,1162000,2474000,36,9.98,791,5.7,0,0.33,0,Medical,0
+APP1376,64,Male,Graduate,Salaried,1599000,2526000,120,13.82,623,23.1,1,0.47,0,Personal,1
+APP1377,64,Male,Post Graduate,Salaried,1017000,1408000,84,10.93,734,25.6,3,0.24,0,Education,0
+APP1378,54,Male,Graduate,Salaried,635000,812000,48,10.09,786,22.9,2,0.26,0,Home,0
+APP1379,43,Male,Graduate,Unemployed,211000,74000,36,14.39,649,10.3,2,0.33,1,Education,1
+APP1380,45,Male,High School,Unemployed,93000,185000,24,13.28,635,10.1,0,0.46,1,Education,0
+APP1381,65,Male,High School,Salaried,467000,678000,48,11.94,754,16.0,0,0.43,1,Business,0
+APP1382,33,Female,Doctorate,Salaried,765000,1028000,60,14.44,564,6.8,1,0.43,3,Vehicle,1
+APP1383,36,Other,Graduate,Salaried,690000,883000,36,13.72,594,10.4,2,0.36,2,Home,1
+APP1384,61,Female,Graduate,Salaried,478000,470000,36,13.67,656,18.9,0,0.45,1,Business,0
+APP1385,38,Male,Graduate,Business Owner,865000,614000,48,13.27,717,4.3,2,0.35,3,Home,0
+APP1386,31,Female,High School,Salaried,520000,890000,12,10.5,710,1.2,0,0.38,1,Home,0
+APP1387,46,Male,Post Graduate,Salaried,743000,906000,120,10.82,777,12.3,2,0.48,0,Vehicle,0
+APP1388,35,Female,High School,Salaried,229000,61000,36,13.12,623,9.3,0,0.52,1,Home,0
+APP1389,61,Female,Post Graduate,Salaried,469000,468000,24,12.95,614,5.7,0,0.31,1,Home,1
+APP1390,61,Female,Graduate,Business Owner,736000,1514000,12,12.02,751,13.9,0,0.27,0,Medical,0
+APP1391,34,Female,Graduate,Self-Employed,514000,487000,84,13.45,617,9.3,2,0.53,0,Business,1
+APP1392,44,Male,High School,Self-Employed,607000,623000,84,14.41,642,9.6,1,0.51,0,Personal,1
+APP1393,65,Female,Post Graduate,Salaried,842000,1219000,24,15.45,529,10.5,2,0.31,0,Personal,1
+APP1394,54,Female,High School,Unemployed,163000,294000,24,12.81,719,10.6,1,0.21,0,Home,0
+APP1395,30,Male,High School,Salaried,586000,901000,36,9.41,809,3.4,2,0.52,3,Business,0
+APP1396,47,Female,Post Graduate,Business Owner,2081000,3954000,24,12.86,600,4.6,1,0.14,0,Vehicle,0
+APP1397,48,Male,Graduate,Business Owner,1361000,582000,60,10.01,794,13.9,0,0.11,1,Home,0
+APP1398,50,Other,Graduate,Salaried,646000,1324000,12,13.52,669,13.7,4,0.4,0,Education,0
+APP1399,22,Female,High School,Business Owner,1212000,2434000,48,13.85,525,1.0,2,0.37,1,Vehicle,1
+APP1400,34,Male,Post Graduate,Salaried,1076000,1332000,36,12.66,606,6.5,2,0.23,1,Home,1
+APP1401,59,Female,Graduate,Self-Employed,798000,1157000,36,12.75,590,4.3,3,0.42,1,Education,1
+APP1402,31,Male,High School,Salaried,702000,439000,36,14.95,650,2.3,2,0.39,2,Education,0
+APP1403,34,Female,Graduate,Salaried,264000,289000,24,12.05,689,2.8,5,0.39,0,Vehicle,0
+APP1404,35,Female,High School,Salaried,407000,246000,24,10.41,834,2.4,2,0.6,1,Home,0
+APP1405,28,Female,Graduate,Salaried,539000,131000,12,12.98,574,4.3,0,0.35,4,Personal,0
+APP1406,27,Female,High School,Salaried,674000,1457000,24,13.52,650,1.2,0,0.44,1,Home,1
+APP1407,36,Male,High School,Salaried,780000,560000,120,11.86,615,8.0,1,0.16,1,Personal,0
+APP1408,60,Male,Graduate,Self-Employed,421000,584000,36,12.96,584,8.3,1,0.15,1,Education,1
+APP1409,21,Male,Post Graduate,Salaried,1278000,1023000,36,12.04,658,0.2,5,0.51,1,Vehicle,1
+APP1410,33,Male,High School,Salaried,299000,281000,24,12.28,693,2.6,0,0.52,2,Personal,0
+APP1411,23,Male,High School,Unemployed,75000,75000,60,13.81,537,1.2,0,0.18,5,Personal,1
+APP1412,46,Male,Post Graduate,Unemployed,180000,157000,84,13.11,707,12.7,0,0.32,1,Home,0
+APP1413,32,Male,Post Graduate,Salaried,698000,1029000,60,14.08,588,7.0,1,0.18,1,Vehicle,1
+APP1414,56,Male,Graduate,Salaried,348000,738000,48,11.7,683,6.4,2,0.27,1,Business,0
+APP1415,47,Female,High School,Self-Employed,659000,697000,60,11.82,765,12.7,6,0.5,0,Education,0
+APP1416,56,Male,Graduate,Self-Employed,888000,1906000,36,11.12,738,20.3,2,0.3,0,Vehicle,0
+APP1417,49,Female,High School,Salaried,651000,1000000,84,11.3,715,8.3,0,0.14,1,Vehicle,0
+APP1418,40,Male,High School,Self-Employed,451000,638000,60,13.48,649,3.0,0,0.14,0,Business,0
+APP1419,59,Male,Graduate,Salaried,592000,399000,12,10.08,697,7.5,1,0.1,2,Vehicle,0
+APP1420,42,Male,Graduate,Salaried,594000,194000,48,12.2,726,3.4,2,0.42,0,Medical,0
+APP1421,63,Male,Graduate,Self-Employed,1264000,2406000,36,10.62,754,27.2,1,0.4,0,Personal,0
+APP1422,65,Male,Graduate,Self-Employed,260000,350000,24,11.56,691,14.7,1,0.4,0,Personal,1
+APP1423,47,Male,Graduate,Business Owner,787000,810000,60,13.36,714,11.2,1,0.22,0,Education,0
+APP1424,51,Male,Graduate,Salaried,601000,1096000,12,13.69,559,17.4,5,0.57,1,Personal,1
+APP1425,32,Male,Post Graduate,Salaried,533000,438000,60,13.78,632,3.9,0,0.38,1,Home,0
+APP1426,57,Female,Post Graduate,Salaried,713000,1260000,120,11.14,772,18.1,0,0.3,0,Vehicle,0
+APP1427,51,Male,Graduate,Salaried,574000,491000,48,11.66,743,4.5,3,0.37,1,Education,0
+APP1428,61,Female,Graduate,Salaried,477000,974000,36,11.54,717,15.9,0,0.22,1,Personal,0
+APP1429,33,Male,Graduate,Salaried,614000,452000,48,10.11,810,2.1,1,0.35,1,Personal,0
+APP1430,56,Female,High School,Salaried,561000,267000,60,12.68,736,9.0,1,0.52,0,Medical,0
+APP1431,42,Female,Post Graduate,Self-Employed,838000,1338000,36,13.07,678,6.1,0,0.44,1,Education,1
+APP1432,29,Female,High School,Salaried,384000,202000,36,13.34,584,4.8,1,0.3,0,Business,0
+APP1433,28,Female,Graduate,Salaried,566000,1188000,48,9.53,809,4.0,1,0.39,0,Business,0
+APP1434,46,Male,Graduate,Self-Employed,698000,1055000,84,10.68,757,14.3,2,0.23,0,Business,0
+APP1435,35,Female,High School,Salaried,245000,162000,36,10.73,837,2.1,1,0.42,0,Personal,0
+APP1436,25,Male,High School,Business Owner,970000,599000,36,10.51,862,3.5,2,0.26,0,Education,0
+APP1437,40,Female,Graduate,Salaried,512000,1048000,120,14.54,560,2.7,3,0.47,5,Business,1
+APP1438,50,Female,Post Graduate,Salaried,1213000,1717000,24,12.3,594,17.9,1,0.69,3,Personal,1
+APP1439,35,Male,Graduate,Business Owner,1353000,2689000,12,16.38,448,8.2,1,0.26,6,Personal,1
+APP1440,63,Female,Graduate,Self-Employed,1054000,443000,48,12.02,768,19.6,3,0.74,0,Education,0
+APP1441,56,Male,High School,Self-Employed,369000,757000,12,11.57,738,13.1,3,0.45,1,Home,0
+APP1442,44,Female,Graduate,Self-Employed,615000,763000,24,13.73,690,13.3,3,0.3,1,Education,0
+APP1443,63,Female,High School,Salaried,291000,447000,48,12.35,606,23.4,1,0.23,1,Vehicle,0
+APP1444,40,Male,Graduate,Self-Employed,547000,517000,48,12.86,679,3.6,1,0.61,0,Vehicle,0
+APP1445,27,Female,Post Graduate,Business Owner,2216000,705000,48,11.03,710,4.0,0,0.36,1,Business,0
+APP1446,22,Female,Graduate,Unemployed,252000,533000,36,12.11,749,0.3,1,0.26,0,Home,1
+APP1447,63,Male,Graduate,Salaried,401000,878000,48,12.1,726,17.2,1,0.31,0,Home,0
+APP1448,64,Male,High School,Salaried,383000,356000,48,12.72,748,21.4,3,0.44,1,Education,0
+APP1449,54,Male,High School,Business Owner,803000,1676000,60,12.46,696,20.2,1,0.33,1,Home,0
+APP1450,25,Female,Graduate,Salaried,736000,394000,60,10.64,769,1.9,3,0.43,1,Vehicle,0
+APP1451,34,Male,Post Graduate,Salaried,421000,214000,48,10.89,748,3.4,0,0.51,0,Personal,0
+APP1452,22,Female,High School,Salaried,257000,89000,84,13.45,590,0.8,0,0.16,1,Medical,1
+APP1453,23,Female,Graduate,Salaried,712000,700000,60,10.2,793,0.8,2,0.44,2,Education,0
+APP1454,32,Male,Graduate,Salaried,303000,92000,24,11.82,784,5.0,2,0.35,3,Education,0
+APP1455,46,Male,High School,Salaried,385000,381000,120,12.65,725,9.8,2,0.3,0,Personal,0
+APP1456,23,Female,High School,Salaried,476000,227000,84,10.92,692,1.7,3,0.52,0,Education,0
+APP1457,65,Female,Graduate,Salaried,694000,1153000,36,9.99,836,11.0,1,0.15,1,Personal,0
+APP1458,41,Male,Graduate,Unemployed,143000,267000,12,14.67,525,4.6,4,0.14,3,Personal,1
+APP1459,32,Male,Graduate,Salaried,528000,832000,48,9.98,793,4.6,1,0.36,0,Business,0
+APP1460,44,Male,Post Graduate,Salaried,1048000,630000,36,13.06,653,3.1,0,0.28,1,Home,0
+APP1461,56,Other,Post Graduate,Salaried,862000,1494000,60,11.77,793,8.6,0,0.14,0,Medical,0
+APP1462,35,Male,Post Graduate,Salaried,622000,435000,48,12.86,690,4.7,2,0.15,0,Medical,0
+APP1463,23,Female,Doctorate,Unemployed,243000,418000,12,14.79,586,1.2,0,0.53,2,Home,1
+APP1464,23,Male,Post Graduate,Unemployed,223000,298000,36,12.43,633,0.8,2,0.42,1,Vehicle,1
+APP1465,59,Female,Post Graduate,Salaried,1423000,1328000,84,10.69,789,17.0,1,0.33,0,Vehicle,0
+APP1466,26,Male,Post Graduate,Salaried,1027000,377000,12,11.85,669,3.8,1,0.59,0,Education,1
+APP1467,49,Male,Post Graduate,Salaried,1193000,2213000,60,13.03,644,12.4,1,0.45,1,Medical,0
+APP1468,38,Female,Post Graduate,Salaried,630000,1310000,36,13.13,642,4.9,0,0.51,0,Home,0
+APP1469,55,Female,Post Graduate,Salaried,649000,994000,36,12.14,742,4.8,1,0.19,0,Education,0
+APP1470,23,Male,Graduate,Salaried,553000,1177000,48,11.09,831,0.5,1,0.18,0,Home,0
+APP1471,61,Male,Graduate,Salaried,571000,1181000,36,15.22,522,17.9,1,0.4,5,Personal,1
+APP1472,52,Male,Graduate,Self-Employed,492000,290000,48,8.31,900,16.3,2,0.41,2,Business,0
+APP1473,41,Male,Post Graduate,Salaried,1215000,2020000,60,11.35,671,2.7,5,0.6,0,Personal,1
+APP1474,30,Male,Graduate,Salaried,817000,734000,24,11.91,734,2.1,1,0.13,3,Personal,0
+APP1475,64,Female,Post Graduate,Salaried,701000,824000,36,14.16,636,12.8,4,0.5,0,Home,1
+APP1476,34,Male,Post Graduate,Salaried,976000,502000,60,12.18,687,4.1,1,0.45,0,Personal,0
+APP1477,43,Female,Doctorate,Salaried,1038000,2231000,60,10.64,709,15.5,2,0.47,1,Vehicle,1
+APP1478,38,Male,High School,Salaried,579000,957000,48,15.32,590,4.0,2,0.31,2,Vehicle,1
+APP1479,31,Male,Post Graduate,Salaried,487000,357000,60,13.91,599,1.5,3,0.45,3,Personal,0
+APP1480,39,Female,Post Graduate,Salaried,741000,699000,24,10.67,798,5.9,0,0.21,1,Medical,0
+APP1481,27,Male,Post Graduate,Business Owner,1401000,1464000,24,13.17,560,1.3,0,0.26,3,Personal,0
+APP1482,21,Female,Post Graduate,Unemployed,243000,412000,48,11.71,720,0.2,1,0.2,0,Personal,0
+APP1483,34,Male,Graduate,Salaried,482000,989000,60,13.33,648,4.8,2,0.27,1,Vehicle,1
+APP1484,26,Female,Graduate,Salaried,250000,211000,60,13.99,594,1.7,2,0.33,3,Home,0
+APP1485,39,Female,High School,Self-Employed,360000,412000,24,9.16,853,2.9,1,0.27,0,Vehicle,0
+APP1486,59,Female,Doctorate,Self-Employed,1096000,1520000,48,13.24,614,18.0,2,0.27,0,Personal,0
+APP1487,28,Male,Graduate,Salaried,614000,606000,48,13.28,582,3.2,2,0.2,3,Personal,1
+APP1488,21,Male,Post Graduate,Salaried,1406000,1699000,24,13.96,658,0.1,2,0.6,0,Personal,1
+APP1489,25,Male,Post Graduate,Salaried,956000,393000,48,14.04,612,3.1,2,0.3,1,Education,1
+APP1490,43,Female,Graduate,Self-Employed,720000,385000,48,11.97,674,6.2,3,0.43,1,Education,1
+APP1491,33,Male,High School,Salaried,445000,446000,24,10.86,714,8.8,0,0.09,0,Home,0
+APP1492,43,Male,High School,Salaried,662000,1344000,36,12.04,712,15.2,2,0.52,0,Personal,0
+APP1493,22,Male,Post Graduate,Salaried,634000,570000,24,12.15,664,0.7,2,0.38,1,Medical,0
+APP1494,35,Male,Graduate,Salaried,571000,399000,84,12.88,619,3.6,2,0.31,0,Vehicle,1
+APP1495,39,Male,High School,Salaried,307000,518000,36,10.7,726,11.4,4,0.37,0,Personal,0
+APP1496,40,Male,Post Graduate,Self-Employed,1495000,3137000,24,11.73,664,6.3,3,0.49,1,Personal,1
+APP1497,45,Male,Graduate,Salaried,688000,769000,12,12.94,646,5.0,1,0.02,1,Home,1
+APP1498,56,Female,Post Graduate,Salaried,609000,132000,12,10.14,810,15.5,3,0.29,0,Home,0
+APP1499,42,Male,Graduate,Salaried,576000,908000,24,14.27,682,8.7,1,0.32,0,Education,0
+APP1500,58,Male,High School,Business Owner,986000,1016000,48,10.93,803,23.2,1,0.31,1,Medical,0
